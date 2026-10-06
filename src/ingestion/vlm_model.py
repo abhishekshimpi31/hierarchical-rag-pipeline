@@ -12,12 +12,8 @@ import datetime
 import gc
 import shutil
 
-try:
-    import config
-    from ..common.file_versioning import get_latest_file
-except ImportError:
-    import config
-    from file_versioning import get_latest_file
+import config
+from ..common.file_versioning import get_latest_file
 
 warnings.filterwarnings("ignore")
 logging.getLogger("bitsandbytes").setLevel(logging.ERROR)

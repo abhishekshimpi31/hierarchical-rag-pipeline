@@ -1,263 +1,521 @@
 question,target_parent_id,num_chunks_retrieved,relevance_vector,precision_at_k,recall_at_k,mrr_at_k,ndcg_at_k
+What is the primary driver of the slight decrease in the NAM index shown in the SSP1-1.9 scenario?,80199e4da1b63868_p0051,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How many model simulations are included in the SSP5-8.5 scenario, as indicated inside the panel?",80199e4da1b63868_p0051,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What are the two mechanisms that increase the upper-level meridional temperature gradient and cause a poleward shift of the storm tracks and a positive NAM?,80199e4da1b63868_p0053,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the CMIP6 models, under which emissions scenarios is the austral summer SAM projected to be less positive by the end of the 21st century?",80199e4da1b63868_p0053,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the positive SAM trend during the late 20th century, according to Section 3.7.2?",80199e4da1b63868_p0055,2,"[1, 0]",0.5,1.0,1.0,1.0
+How does the data in Figure 4.10 show a significant increasing trend in the amplitude of ENSO precipitation variability across the 21st century in the four SSPs?,80199e4da1b63868_p0055,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the slight increase in historical precipitation amplitude over time, as shown in this section?",80199e4da1b63868_p0057,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"According to this section, what is the expected change in the amplitude of ENSO rainfall variability over the 21st century, and what is the basis for this conclusion?",80199e4da1b63868_p0057,2,"[0, 1]",0.5,1.0,0.5,0.6309
+What is the very likely range of GSAT change for the scenario SSP1-1.9 over the period 2081–2100 compared to the recent past (1995–2014)?,80199e4da1b63868_p0058,1,[1],1.0,1.0,1.0,1.0
+What is the difference in the very likely GSAT ranges between the scenarios SSP1-1.9 and SSP5-8.5 over the long-term period 2081–2100?,80199e4da1b63868_p0058,1,[1],1.0,1.0,1.0,1.0
+"What is the range of GSAT change relative to 1995–2014 for the high-emissions scenario SSP5-8.5, according to Figure 4.11d and Table 4.5?",80199e4da1b63868_p0059,1,[1],1.0,1.0,1.0,1.0
+"What is the estimated time when a 1.5°C increase in the 20-year average of GSAT, relative to the average over the period 1850–1900, is likely to occur in scenario SSP2-4.5, according to Table 4.5?",80199e4da1b63868_p0059,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the difference in warming rates between SR1.5 and AR6, according to the text?",80199e4da1b63868_p0060,2,"[1, 0]",0.5,1.0,1.0,1.0
+"Under which scenario (SSP1-1.9, SSP1-2.6, SSP2-4.5, SSP3-7.0, or SSP5-8.5) is a warming level of 2°C in GSAT, relative to the period 1850–1900, extremely unlikely to be crossed during the entire 21st century?",80199e4da1b63868_p0060,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the range of GSAT increase over the period 2016–2035 relative to 1986–2005, as assessed by the AR5 with medium confidence?",80199e4da1b63868_p0064,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the likelihood that an individual year's GSAT will exceed 1.5°C relative to 1850–1900 by 2030, across the scenarios considered here, according to the text?",80199e4da1b63868_p0064,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What regions, according to the CMIP6 models, do not show robust warming in the near-term?",80199e4da1b63868_p0065,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the average change in surface temperature per unit ERF for CO2, sulphate and black carbon aerosols, and solar forcing, as recently evaluated in climate models?",80199e4da1b63868_p0065,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the internal-variability threshold mentioned in Section 4.2.6, and how is it used to determine robust and likely changes in seasonal mean surface temperature?",80199e4da1b63868_p0066,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What percentage of models must agree on the sign of change in order for a region to be considered robust and likely to emerge from internal variability, according to the figure's legend?",80199e4da1b63868_p0066,3,"[0, 0, 0]",0.0,0.0,0.0,0.0
+What is the primary driver of the temperature change projections shown in the DJF maps under the SSP1-2.6 scenario?,80199e4da1b63868_p0067,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+How does the color gradient in the DJF maps under the SSP3-7.0 scenario indicate the level of temperature change significance?,80199e4da1b63868_p0067,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What percentage of models must show change greater than the internal-variability threshold for a region to be indicated by diagonal lines?,80199e4da1b63868_p0069,2,"[0, 0]",0.0,0.0,0.0,0.0
+What percentage of all models must agree on the sign of change for a region to be indicated by crossed lines?,80199e4da1b63868_p0069,2,"[0, 1]",0.5,1.0,0.5,0.6309
+What are the two different scenarios (SSP1-2.6 and SSP3-7.0) illustrated in the figure?,80199e4da1b63868_p0070,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What percentage of models show a robust significant increase in temperature in the dark red shaded regions?,80199e4da1b63868_p0070,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary driver of precipitation changes in the subtropics, according to He and Soden (2017)?",80199e4da1b63868_p0071,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do aerosol changes induce changes in tropical precipitation, as described in Hwang et al. (2013) and Ridley et al. (2015)?",80199e4da1b63868_p0071,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the threshold for a change to be considered robust and likely to emerge from internal variability, according to Section 4.2.6?",80199e4da1b63868_p0073,2,"[0, 0]",0.0,0.0,0.0,0.0
+"What percentage of models must agree on the sign of change for a region to be considered robust, according to the figure's legend?",80199e4da1b63868_p0073,2,"[0, 0]",0.0,0.0,0.0,0.0
+"What is the percentage change in precipitation in the northern subtropics, according to the Key Data Trends in this section?",80199e4da1b63868_p0074,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What percentage of models must agree on the sign of change for a region to be considered with a robust significant change, according to the Legend in this section?",80199e4da1b63868_p0074,2,"[0, 0]",0.0,0.0,0.0,0.0
+"What is the percentage change in precipitation in the northern subtropics, as indicated by the color bar legend?",80199e4da1b63868_p0075,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What percentage of models must agree on the sign of change for a region to be considered with a robust significant change?,80199e4da1b63868_p0075,3,"[0, 0, 0]",0.0,0.0,0.0,0.0
+"What is the percentage change in precipitation in the northern subtropics, as indicated by the color bar in Figure 4.14?",80199e4da1b63868_p0076,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What percentage of models show a change greater than the internal-variability threshold in the regions with a robust significant change, as defined in the legend of Figure 4.14?",80199e4da1b63868_p0076,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What percentage of the total variance in global land monsoon regions is explained by model uncertainty and internal variability (Zhou et al., 2020)?",80199e4da1b63868_p0077,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the multi-model mean (5-95% range) of global land monsoon precipitation change under the SSP5-8.5 scenario in CMIP6 projections?,80199e4da1b63868_p0077,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the range of years in which Arctic sea ice coverage in September is expected to drop below 1 million km^2 for RCP8.5, according to the AR5 assessment?",80199e4da1b63868_p0079,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the percentage of CMIP6 model simulations that project decreasing Arctic sea ice area in September for 30-year trends, across all core SSPs?",80199e4da1b63868_p0079,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What are the three SSP scenarios that clearly lead to increasing 10-, 20-, and 30-year trends in ocean carbon flux over the near term?",80199e4da1b63868_p0080,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the reason why an increase in land carbon flux is unlikely to be detected over the near term?",80199e4da1b63868_p0080,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of the large response uncertainty in near-term projections of a northward shift of NH storm track and westerlies?,80199e4da1b63868_p0083,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Figure 4.17a, in which seasons (boreal fall, winter, and spring) does the multi-model mean change in the NAM index show a slightly more positive tendency in the three highest emissions scenarios?",80199e4da1b63868_p0083,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the trend in ocean carbon flux for the SSP3-7.0 scenario?,80199e4da1b63868_p0086,3,"[0, 1, 0]",0.3333,1.0,0.5,0.6309
+How does the ocean carbon flux trend for SSP1-1.9 compare to the trend for SSP5-8.5?,80199e4da1b63868_p0086,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the magnitude of the positive trend in atmosphere to ocean carbon flux for the SSP1-1.9 scenario?,80199e4da1b63868_p0087,3,"[0, 1, 0]",0.3333,1.0,0.5,0.6309
+What is the level of confidence in the statement that any anthropogenic forced signal in the NAM will be of comparable magnitude or smaller than natural internal variability in the NAM?,80199e4da1b63868_p0087,2,"[0, 0]",0.0,0.0,0.0,0.0
+"According to the text, what is the projected year of recovery of the Antarctic ozone hole?",80199e4da1b63868_p0088,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the expected effect of ozone recovery and increasing GHGs on the SAM in austral summer over the next several decades, as stated in the text?",80199e4da1b63868_p0088,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of the positive anomaly in the NAM index during DJF (December–January–February) for all SSP scenarios?,80199e4da1b63868_p0089,2,"[1, 0]",0.5,1.0,1.0,1.0
+How does the data in this section show a decrease in the NAM index anomaly from DJF to JJA (June–July–August) for all SSP scenarios?,80199e4da1b63868_p0089,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of the positive anomaly in the SAM index during DJF for all SSP scenarios?,80199e4da1b63868_p0090,2,"[1, 0]",0.5,1.0,1.0,1.0
+How does the data in this section show a decrease in the SAM index anomaly from DJF to MAM for all SSP scenarios?,80199e4da1b63868_p0090,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of the projected changes in the NAM and SAM indices from 1995–2014 to 2021–2040?,80199e4da1b63868_p0091,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the confidence level in the potential influence of anthropogenic aerosols on the SAM in the future?",80199e4da1b63868_p0091,2,"[1, 0]",0.5,1.0,1.0,1.0
+What are the two main climate modes used to describe interannual variability of the tropical Atlantic?,80199e4da1b63868_p0092,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the primary characteristic of the Atlantic meridional mode (AMM) in terms of SST and wind anomalies?,80199e4da1b63868_p0092,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the primary driver of the slight increasing trend in amplitude of rainfall variability over Niño 3.4 region in the near term?,80199e4da1b63868_p0093,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the expected change in amplitude of ENSO SST and rainfall variability in the near term, and what is the level of confidence associated with this expectation?",80199e4da1b63868_p0093,3,"[0, 1, 0]",0.3333,1.0,0.5,0.6309
+What is the primary driver of the capacitor effect in response to ENSO in the Indian Ocean basin (IOB) mode?,80199e4da1b63868_p0094,2,"[1, 0]",0.5,1.0,1.0,1.0
+How does the Atlantic Meridional Mode (AMV) modulate the characteristics of the Atlantic Niños and their inter-basin teleconnections during negative AMV phases?,80199e4da1b63868_p0094,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of Pacific Decadal Variability (PDV) according to Liu and Di Lorenzo (2018)?,80199e4da1b63868_p0095,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How does the CMIP5 decadal-prediction ensemble show no prediction skill of SST over the key PDV centres of action in the Pacific Ocean, both at two-to-five-year and six-to-nine-year forecast averages?",80199e4da1b63868_p0095,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the primary driver of the Atlantic Multi-decadal Variability (AMV) according to the text?,80199e4da1b63868_p0096,2,"[0, 1]",0.5,1.0,0.5,0.6309
+"What is the main reason for the improved skill in predicting the subpolar gyre SST in CMIP6 models compared to CMIP5, as stated in the text?",80199e4da1b63868_p0096,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the near-term warming impact on climate due to emission reductions aimed at decreasing local air pollution, as assessed by the AR5 (high confidence)?",80199e4da1b63868_p0097,2,"[0, 0]",0.0,0.0,0.0,0.0
+"How does the data in this section show a 0.22°C increase in GSAT anomaly at mid-century (2045-2054) compared to SSP3-7.0, in the SSP3-7.0-lowSLCF-highCH4 scenario?",80199e4da1b63868_p0097,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the higher GSAT anomaly in the SSP3-7.0-lowSLCF-highCH4 experiment compared to the reference SSP3-7.0 scenario, particularly in the near-term (1995-2014)?",80199e4da1b63868_p0098,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the net effect of SLCFs on GSAT change in the SSP3-7.0 scenario for the time period 2081-2100, according to the values given in Table 4.6?",80199e4da1b63868_p0098,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the expected Northern Hemisphere cooling, in degrees Celsius, that would result from a volcanic eruption similar to Mount Pinatubo in 1991, as indicated by climate model simulations over the past millennium?",80199e4da1b63868_p0099,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How does the inclusion of time-varying volcanic forcing in climate projections, as demonstrated by Bethke et al. (2017), affect the likelihood of decades with negative GSAT trends?",80199e4da1b63868_p0099,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of forced climate variability globally on interannual to centennial time scales before the industrial period?,80199e4da1b63868_p0100,2,"[0, 0]",0.0,0.0,0.0,0.0
+"According to this section, what is the potential time scale on which volcanic eruptions can influence future climate?",80199e4da1b63868_p0100,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How often, on average, do large volcanic eruptions with ERF more negative than –1 W m –2 occur throughout the last 2500 years?",80199e4da1b63868_p0101,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the estimated frequency of a Samalas-type eruption, which is characterized by an ERF stronger than –5 W m –2?",80199e4da1b63868_p0101,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the climatic response to volcanic eruptions, according to the text?",80199e4da1b63868_p0102,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How does the time of year of the eruption influence the total mass, lifetime, and optical properties of volcanic aerosol in the stratosphere, as stated in the text?",80199e4da1b63868_p0102,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of short-term positive changes in the annual SAM index?,80199e4da1b63868_p0103,2,"[1, 0]",0.5,1.0,1.0,1.0
+How does the ocean buffer the atmospheric response to volcanic eruptions on annual time scales?,80199e4da1b63868_p0103,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of volcanic forcing in CMIP6 models, as prescribed by Eyring et al. (2016)?",80199e4da1b63868_p0104,2,"[0, 0]",0.0,0.0,0.0,0.0
+"According to Bethke et al. (2017), what is the potential impact on the timing of crossing 1.5°C global warming if a 1257 Samalas-sized eruption occurs early in the 21st century?",80199e4da1b63868_p0104,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of GSAT reduction mentioned in this section?,80199e4da1b63868_p0105,2,"[0, 0]",0.0,0.0,0.0,0.0
+"According to Figure 1, what is the estimated Volcanic ERF of the most volcanically active ensemble member, as estimated from SAOD?",80199e4da1b63868_p0105,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the patterns of change in any given future period, according to Deser et al. (2016)?",80199e4da1b63868_p0106,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How does the multi-model mean pattern assessed in this section differ from the 20-year mean change patterns in any individual CMIP6 model realization, as stated in Knutti et al. (2010)?",80199e4da1b63868_p0106,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the time period used as the reference period for near-surface air temperature changes in this section?,80199e4da1b63868_p0107,2,"[0, 1]",0.5,1.0,0.5,0.6309
+"What is the specific region where warming is found to be amplified, according to the multi-model mean temperature change pattern in Figure 4.19?",80199e4da1b63868_p0107,3,"[0, 0, 0]",0.0,0.0,0.0,0.0
+"What is the primary driver of the warming in the North Atlantic subpolar gyre, as indicated by Figure 4.19?",80199e4da1b63868_p0108,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How does the data in this section show a more pronounced warming in the 2081–2100 period compared to the 2041–2060 period, according to Figure 4.19?",80199e4da1b63868_p0108,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the ratio of land-to-ocean warming in CMIP6, as stated in this section?",80199e4da1b63868_p0109,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to this section, what is the primary cause of uncertainty in the land–ocean warming contrast?",80199e4da1b63868_p0109,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of delayed warming of the southern high latitudes, according to the text?",80199e4da1b63868_p0110,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How does the magnitude of Arctic amplification depend on the mix of radiative forcing agents, as stated in the text?",80199e4da1b63868_p0110,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the latitude range over which models show a stronger hemispheric winter than summer warming over land?,80199e4da1b63868_p0111,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What region is specifically mentioned as experiencing an amplification of the seasonal cycle due to stronger summer warming, according to Seager et al. (2014a) and Kröner et al. (2017)?",80199e4da1b63868_p0111,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Figure 4.20, what is the temperature difference range in °C for the majority of the world in the SSP1-2.6 scenario?",80199e4da1b63868_p0112,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the dominant contribution to mid-latitudinal winter temperature variability, according to Cross-Chapter Box 10.1?",80199e4da1b63868_p0112,2,"[1, 0]",0.5,1.0,1.0,1.0
+What are the primary sources cited for the projected increase in daily to interannual summer temperature variability over central Europe?,80199e4da1b63868_p0113,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"According to this section, what is the expected effect of amplified Mediterranean warming on temperature variability?",80199e4da1b63868_p0113,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the proportionately larger warming in the tropical upper troposphere compared to the tropical surface, as assessed in Section 12.4.3.2 of AR5?",80199e4da1b63868_p0114,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"According to Figure 4.21, what percentage change in interannual variability of mean temperature is observed in the northern high latitudes for the period of December–January–February (DJF) compared to 1995–2014?",80199e4da1b63868_p0114,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of the general decrease in temperature variability shown in the map?,80199e4da1b63868_p0115,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What percentage of models agree on the sign of the change in temperature variability in areas indicated by diagonal lines on the map?,80199e4da1b63868_p0115,3,"[0, 1, 0]",0.3333,1.0,0.5,0.6309
+What is the specific color coding used to represent a decrease in temperature variability in the Right Map?,80199e4da1b63868_p0116,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"According to the Trends section, which regions show the most significant increases in temperature variability?",80199e4da1b63868_p0116,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary driver of the projected stratospheric temperature trends in the CMIP6 models, according to the text?",80199e4da1b63868_p0117,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How does the Brewer –Dobson circulation affect the latitudinal pattern of stratospheric temperature trends, as described in the text?",80199e4da1b63868_p0117,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the exact range of latitude (in degrees) represented on the X-axis of the figure?,80199e4da1b63868_p0118,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the minimum temperature change (in °C) observed in the tropics according to the figure?,80199e4da1b63868_p0118,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the primary driver of the warming trend in the SSP3-7.0 scenario compared to SSP1-2.6?,80199e4da1b63868_p0119,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"In the SSP3-7.0 scenario, what is the temperature change in the Arctic region, as indicated by the color scale in the figure?",80199e4da1b63868_p0119,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary driver of the decrease in near-surface relative humidity over most land areas, according to the text?",80199e4da1b63868_p0120,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What percentage contribution does the decrease in near-surface land RH have to the increase in terrestrial aridity over land, as projected by CMIP5 models under doubled CO2 forcing?",80199e4da1b63868_p0120,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What percentage of the decrease in near-surface land RH is attributed to the decrease in near-surface land RH itself, according to CMIP5 models under doubled CO2 forcing?",80199e4da1b63868_p0121,2,"[1, 0]",0.5,1.0,1.0,1.0
+"Under which emissions scenario and season are significant decreases in near-surface relative humidity projected in continental Europe and the Middle East, North America, South America, and South Africa?",80199e4da1b63868_p0121,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the primary driver of the 2% increase in global precipitation per °C of GSAT warming?,80199e4da1b63868_p0122,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the expected annual mean global land precipitation increase by the mid-21st century under the RCP4.5 and RCP8.5 scenarios?",80199e4da1b63868_p0122,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the range of projected increase in global mean land precipitation under the SSP1-2.6 scenario, as stated in this section?",80199e4da1b63868_p0123,3,"[0, 0, 0]",0.0,0.0,0.0,0.0
+"According to this text, what is the projected increase in global mean precipitation over the 21st century under the SSP3-7.0 scenario, relative to 1995-2014?",80199e4da1b63868_p0123,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What percentage change in precipitation is indicated by the color dark brown on the DJF Panel?,80199e4da1b63868_p0124,3,"[0, 1, 0]",0.3333,1.0,0.5,0.6309
+"According to the text, what percentage of models must show a change greater than the internal-variability threshold for a region to be considered 'robust and likely'?",80199e4da1b63868_p0124,2,"[0, 0]",0.0,0.0,0.0,0.0
+What is the primary driver of the general increase in precipitation shown in the figure for both climate change scenarios?,80199e4da1b63868_p0126,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"In which regions does the data in this section show a notable increase in precipitation, particularly in the SSP3-7.0 scenario?",80199e4da1b63868_p0126,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary driver of the increase in global monsoon precipitation, according to Chen et al. (2020)?",80199e4da1b63868_p0127,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the projected increase in global land monsoon precipitation, in percentage, per °C GSAT warming, among the four scenarios considered in this section?",80199e4da1b63868_p0127,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of the poleward shift in the SH mid-latitude circulation in SSP3-7.0?,80199e4da1b63868_p0128,2,"[1, 0]",0.5,1.0,1.0,1.0
+How does the data in this section show a strengthening and lifting of the subtropical jets in both hemispheres under both SSP1-2.6 and SSP3-7.0?,80199e4da1b63868_p0128,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the confidence level assessed for the poleward shift of the SH westerlies and storm track by the end of the 21st century under RCP8.5?,80199e4da1b63868_p0129,2,"[1, 0]",0.5,1.0,1.0,1.0
+What percentage of models must agree on the sign of change in a region for the change to be considered robust and likely to emerge from internal variability?,80199e4da1b63868_p0129,3,"[0, 0, 1]",0.3333,1.0,0.3333,0.5
+What is the primary driver of sea level pressure decrease indicated by dark blue shading in the DJF panel?,80199e4da1b63868_p0130,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What percentage of models show a change greater than the internal-variability threshold in areas with conflicting signals?,80199e4da1b63868_p0130,2,"[0, 0]",0.0,0.0,0.0,0.0
+"What is the primary driver of the increase in sea level pressure in the southern hemisphere, particularly over the Antarctic region, as indicated by the dark blue shading in the JJA panel?",80199e4da1b63868_p0131,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What percentage of models agree on the sign of change in areas with gray shading, indicating conflicting signals?",80199e4da1b63868_p0131,2,"[0, 0]",0.0,0.0,0.0,0.0
+"What is the primary driver of the poleward shift of the westerlies in the North Pacific and North Atlantic in Autumn, as shown in Figure 4.26?",80199e4da1b63868_p0132,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Figure 4.26, what is the zonal wind speed (m s-1) in the mid-latitudes for the scenario DJF SSP1-2.6 2081-2100?",80199e4da1b63868_p0132,2,"[1, 0]",0.5,1.0,1.0,1.0
+What are the two competing dynamical drivers that influence the projected poleward shift of the NH zonal-mean low-level westerlies?,80199e4da1b63868_p0133,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the primary reason for the low confidence in projected regional changes in the NH low-level westerlies, particularly for the North Atlantic basin in boreal winter?",80199e4da1b63868_p0133,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Tamarin-Brodsky and Kaspi (2017), what is the primary driver of the poleward shift in the mean genesis latitude of extratropical cyclones (ETCs)?",80199e4da1b63868_p0134,2,"[1, 0]",0.5,1.0,1.0,1.0
+"As stated in the text, what is the expected change in the number of ETCs associated with intense surface wind speeds and undergoing explosive pressure deepening in the NH winter, according to Seiler and Zwiers (2016) and Chang (2018)?",80199e4da1b63868_p0134,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of heating to cyclone intensification, according to Li et al. (2014), Pfahl et al. (2015), Willison et al. (2015), and Michaelis et al. (2017)?",80199e4da1b63868_p0136,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the expected change in the number of ETCs associated with extreme precipitation, due to the increased moisture-loading capacity of the atmosphere, according to Section 8.4.2, Yettella and Kay (2017), and Hawcroft et al. (2018)?",80199e4da1b63868_p0136,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the AR5, what level of confidence was assigned to the assessment that the frequency of blocking would not increase under enhanced GHG concentrations?",80199e4da1b63868_p0137,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the exception to the projected decrease in blocking frequency in boreal summer, as mentioned in the text?",80199e4da1b63868_p0137,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary driver of reduced blocking activity in the North Pacific region, according to the text?",80199e4da1b63868_p0138,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the confidence level in the projected decrease in atmospheric blocking events over Greenland and the North Pacific in the SSP3-7.0 and SSP5-8.5 scenarios, as stated in the text?",80199e4da1b63868_p0138,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the projected pH reduction at a depth of about 1 km in the global ocean by the end of this century under the SSP3-7.0 scenario?,80199e4da1b63868_p0141,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How does the uncertainty in projected ocean acidification change with ocean depth, according to the text, and what is the source of this uncertainty?",80199e4da1b63868_p0141,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the expected change in the North Atlantic Oscillation (NAM) index in boreal winter (DJF) under the SSP5-8.5 scenario compared to 1995-2014?,80199e4da1b63868_p0142,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+Under which two SSP scenarios (SSP1-1.9 and SSP1-2.6) does the North Atlantic Oscillation (NAM) not show any robust change?,80199e4da1b63868_p0142,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary driver of the evolution of the Southern Annular Mode (SAM) over the 21st century, according to the AR5?",80199e4da1b63868_p0143,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How do CMIP5 models simulate the SAM trend in austral summer for RCP8.5 by the end of the century, and what is the possible reason for the spread in projections?",80199e4da1b63868_p0143,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the magnitude of the ensemble-mean increase in the Southern Annular Mode (SAM) index in austral winter under the SSP5-8.5 scenario, as shown in Figure 4.30b?",80199e4da1b63868_p0145,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"In which seasons does the Southern Annular Mode (SAM) index show a robust change compared to 1995–2014 under the SSP1-1.9 scenario, according to the text?",80199e4da1b63868_p0145,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What are the main factors driving the diversity of ENSO SST amplitude change in climate models, according to Wittenberg (2009) and Vega-Westhoff and Sriver (2017)?",80199e4da1b63868_p0146,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How do CMIP6 models project changes in ENSO rainfall amplitude in the long-term future (2081–2100) relative to the recent past (1995–2014), according to Figure 4.10?",80199e4da1b63868_p0146,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the approximate factor by which the frequency of extreme positive IOD events might increase under the CMIP5 RCP8.5 scenario, according to Cai et al. (2014b)?",80199e4da1b63868_p0147,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"Under what global warming level, as defined by warming above pre-industrial levels, does an approximate doubling of extreme positive IOD events occur, without a projected decline thereafter, as found by Cai et al. (2018b)?",80199e4da1b63868_p0147,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the primary reason for the low confidence in projected changes of the Tropical Atlantic Variability (TAV) according to the AR5?,80199e4da1b63868_p0148,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Mohino and Losada (2015), what is the expected outcome of changes in climatological SSTs on the associated teleconnections?",80199e4da1b63868_p0148,2,"[0, 0]",0.0,0.0,0.0,0.0
+"What is the specific mechanism by which a warmer climate is hypothesized to increase the phase speed of westward-propagating oceanic waves, as described in Goodman and Marshall (1999) and Zhang and Delworth (2016)?",80199e4da1b63868_p0149,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Zhang and Delworth (2016), what is the association between the weakening of the PDV and the internal variability of global mean surface temperature?",80199e4da1b63868_p0149,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of AMV changes according to the CMIP5 multi-model simulations under RCP8.5 scenario by Villamayor et al. (2018)?,80199e4da1b63868_p0150,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the conclusion regarding the expected change in AMV under global warming based on paleoclimate reconstructions and CMIP5 model simulations?,80199e4da1b63868_p0150,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What methodologies have been applied to estimate the spatial patterns of climate change associated with a given level of global warming, as mentioned in this section?",80199e4da1b63868_p0151,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to this section, what is the primary reason why pattern scaling performance is generally better for near-surface temperature than for precipitation?",80199e4da1b63868_p0151,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the approximate factor by which Arctic annual mean temperatures warm for each level of global warming, as stated in the text?",80199e4da1b63868_p0152,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the reason for the relatively strong warming in subtropical southern Africa?",80199e4da1b63868_p0152,2,"[0, 1]",0.5,1.0,0.5,0.6309
+"What is the primary difference in temperature change between the 2°C and 1.5°C global warming scenarios, as shown in map (e)?",80199e4da1b63868_p0153,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How many models are used to generate the maps in this section, as indicated in the top right of each map?",80199e4da1b63868_p0153,2,"[0, 0]",0.0,0.0,0.0,0.0
+"What is the specific range of global mean precipitation increase as a result of 1°C of global warming, according to Sections 8.2.1 and 8.4.1?",80199e4da1b63868_p0154,2,"[1, 0]",0.5,1.0,1.0,1.0
+"At what level of global warming do statistically significant changes in regional annual average precipitation become expected, according to Tebaldi et al. (2015)?",80199e4da1b63868_p0154,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the likely decrease in precipitation over the subtropical regions, including the Mediterranean, southern Africa, parts of Australia, and South America at all four levels of global warming?",80199e4da1b63868_p0155,2,"[1, 0]",0.5,1.0,1.0,1.0
+What percentage change in precipitation is represented by the darker colors in the color scale of Figure 4.33?,80199e4da1b63868_p0155,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary driver of the uncertainty in precipitation projections for higher warming scenarios, according to the text?",80199e4da1b63868_p0159,2,"[0, 0]",0.0,0.0,0.0,0.0
+"How does the area fraction with significant precipitation increase compare between land and ocean, as shown in Figure 4.33?",80199e4da1b63868_p0159,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary driver of the spread in the shift of the Northern Hemisphere mid-latitude circulation due to an abrupt quadrupling in CO2, according to Grise and Polvani (2016)?",80199e4da1b63868_p0160,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the consequence of the time-dependence of the relationship between radiative forcing and GSAT on the transient response of the mid-latitude jets to forcing, as described by Ceppi et al. (2018)?",80199e4da1b63868_p0160,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of irreversible changes in thermosteric sea level, AMOC, ice sheets, and permafrost carbon, as mentioned in this section?",80199e4da1b63868_p0162,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Figure 4.34, what is the approximate sea ice area change in 10^6 km^2 for the September Arctic sea ice area change when CO2 concentration is at 571 ppm?",80199e4da1b63868_p0162,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the approximate CO2 concentration in the year 2100 in the overshoot scenario SSP5-3.4-OS?,80199e4da1b63868_p0163,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the net negative CO2 emission rate in the year 2100 in the overshoot scenario SSP5-3.4-OS, in units of PgC yr –1 and GtCO2 yr –1 ?",80199e4da1b63868_p0163,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the approximate contribution of higher effective radiative forcing (ERF) to the warming increase in CMIP6 compared to CMIP5, according to the text?",80199e4da1b63868_p0164,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary reason behind the upper end of the warming for SSP5-8.5 reaching 1.5°C higher than the CMIP5 results, as stated in the text?",80199e4da1b63868_p0164,2,"[1, 0]",0.5,1.0,1.0,1.0
+What chart type is used to display the surface air temperature change in this section?,80199e4da1b63868_p0165,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the highest warming scenario shown in the line graph, according to the text?",80199e4da1b63868_p0165,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary driver of the lag between peak emissions and peak warming, as described in the text?",80199e4da1b63868_p0166,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How long after emissions pathways have started diverging is the emergence of the response to differing CO2 emissions expected to arise in global mean CO2 concentrations, according to Tebaldi and Friedlingstein (2013), Peters et al. (2017), Schwartzman and Keeling (2020), and Spring et al. (2020)?",80199e4da1b63868_p0166,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Tebaldi and Friedlingstein (2013), how many years after emissions pathways have started diverging is emergence of the response to differing CO2 emissions first expected to arise in global mean CO2 concentrations?",80199e4da1b63868_p0167,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the approximate time period over which Marotzke (2019) found a one-third likelihood that a trend reduction in GSAT would be attributable to the emissions reductions implied by the difference between RCP2.6 and RCP4.5?,80199e4da1b63868_p0167,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the difference in emergence times between 20-year GSAT trends and 20-year GSAT anomalies, as found by McKenna et al. (2021)?",80199e4da1b63868_p0168,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How does the study by Tebaldi and Friedlingstein (2013) suggest that emergence times for boreal-summer averages are similar to the annual temperature averages, and what is the implication of this finding for understanding the timing of mitigation benefits?",80199e4da1b63868_p0168,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the estimated median of CO2 removal across all scenarios in SR1.5, as reported in Rickels et al. (2018) and Rogelj et al. (2018b)?",80199e4da1b63868_p0169,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the estimated scale of CO2 removal required by CDR in the SSP class of scenarios, specifically in SSP1-1.9 and SSP1-2.6?",80199e4da1b63868_p0169,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the rate at which CO2 concentration decreases after the peak in the Normalized Anomaly Comparison (a) sub-panel?,80199e4da1b63868_p0170,2,"[1, 0]",0.5,1.0,1.0,1.0
+How many CMIP6 models are used to represent the multi-model mean in the Surface Air Temperature (b) sub-panel?,80199e4da1b63868_p0170,2,"[0, 0]",0.0,0.0,0.0,0.0
+What is the primary driver of the decrease in thermosteric sea level during the CO2 ramp-up phase?,80199e4da1b63868_p0171,2,"[0, 1]",0.5,1.0,0.5,0.6309
+How does the data in this section show a 2% increase in thermosteric sea level anomaly during the ramp-down phase?,80199e4da1b63868_p0171,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What types of aerosols have been proposed for injection into the stratosphere in the Stratospheric Aerosol Injection (SAI) SRM approach, and what are the associated uncertainties?",80199e4da1b63868_p0172,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the expected effect on surface UV radiation of the Stratospheric Aerosol Injection (SAI) SRM approach, according to Visioni et al. (2017) and Tilmes et al. (2018b)?",80199e4da1b63868_p0172,2,"[0, 1]",0.5,1.0,0.5,0.6309
+"What is the primary driver of climate response in SRM approaches, according to the AR5?",80199e4da1b63868_p0173,2,"[1, 0]",0.5,1.0,1.0,1.0
+How does the data in this section show a 2% increase in planetary albedo would suffice to offset global mean warming from a doubling of the CO2 concentration?,80199e4da1b63868_p0173,2,"[0, 1]",0.5,1.0,0.5,0.6309
+What is the primary driver of a 2% extra solar irradiance reflected away from Earth or a one percentage point increase in planetary albedo that would suffice to offset global mean warming from a doubling of the CO2 concentration?,80199e4da1b63868_p0174,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Figure 4.38, what is the spatial correlation of the SRM-induced temperature change pattern with the pattern of change caused by a reduction of atmospheric CO2 for the scenario of stratospheric sulphate aerosol injection?",80199e4da1b63868_p0174,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the correlation value for the SRM-induced temperature and precipitation change pattern in the case of Stratospheric Sulfate Aerosols?,80199e4da1b63868_p0175,2,"[0, 1]",0.5,1.0,0.5,0.6309
+"According to the text, what is the potential outcome of combining two SRM approaches, as mentioned in the chapter?",80199e4da1b63868_p0175,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of the growth of larger particles (about 0.5 microns) through condensation and coagulation in stratospheric aerosol injection (SAI)?,80199e4da1b63868_p0176,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How does the efficacy of SAI by emission of SO2 (radiative forcing per mass of injection rate) change with the increase in injection rate, according to Niemeier and Timmreck (2015) and Kleinschmitt et al. (2018)?",80199e4da1b63868_p0176,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Pitari et al. (2014) and Richter Jadwiga et al. (2018), what is the effect of sulphate injection on the polar column ozone concentration?",80199e4da1b63868_p0177,2,"[1, 0]",0.5,1.0,1.0,1.0
+"As stated in Visioni et al. (2020c), what is the spatial distribution of sulphate deposition that would occur under RCP 8.5 to maintain global temperature at 2020 levels?",80199e4da1b63868_p0177,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the estimated negative forcing of Marine Cloud Brightening (MCB) in W m–2, according to modelling studies?",80199e4da1b63868_p0178,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the likely effect of MCB on precipitation over tropical land, relative to a high-GHG climate, according to medium-confidence modelling studies?",80199e4da1b63868_p0178,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the maximum cooling potential of removing all cirrus clouds from the climate system, according to Gasparini and Lohmann (2016) and Hong et al. (2016)?",80199e4da1b63868_p0179,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the net cloud radiative forcing achieved by cirrus seeding with an optimal ice nuclei seeding concentration and globally non-uniform seeding strategy, according to Storelvmo and Herger (2014) and Gasparini et al. (2020)?",80199e4da1b63868_p0179,2,"[1, 0]",0.5,1.0,1.0,1.0
+What are the primary sources cited for the potential of surface-based albedo modification to achieve a negative radiative forcing of a few W m–2?,80199e4da1b63868_p0180,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to this section, what is the primary limitation of large changes in desert albedo as a method for global cooling?",80199e4da1b63868_p0180,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the approximate size of the forcing required to detect the global scale climate system response to stratospheric sulphate aerosol injection, as mentioned in Robock et al. (2010)?",80199e4da1b63868_p0181,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Lo et al. (2016), how does the detection time for the effect of SRM on global temperature and precipitation vary with different detection methods and filtering techniques?",80199e4da1b63868_p0181,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What are the climate rebound effects that occur when SRM is suddenly and sustainably terminated in a world with high GHG concentrations, according to Jones et al. (2013) and McCusker et al. (2014)?",80199e4da1b63868_p0182,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How does a sudden and sustained termination of SRM affect carbon sinks, according to Tjiputra et al. (2016), Muri et al. (2018), and Plazzotta et al. (2019)?",80199e4da1b63868_p0182,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of residual or overcompensating climate change at the regional scale and seasonal time scale according to this section?,80199e4da1b63868_p0183,2,"[0, 0]",0.0,0.0,0.0,0.0
+"How long after SRM implementation would it take to detect a change in global temperature and precipitation response, according to modelling studies in this section?",80199e4da1b63868_p0183,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of abrupt changes in the Earth system, according to Section 4.7.2?",80199e4da1b63868_p0184,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How does the availability of ESM results for scenarios beyond 2100, compared to analysis based on EMICs at the time of AR5, impact the assessment of climate change beyond 2100?",80199e4da1b63868_p0184,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the temperature anomaly relative to the estimated temperature at the year of cessation, as shown in Figure 4.39?",80199e4da1b63868_p0186,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Table 4.8, what is the 20-year average GSAT change 50 years after the cessation of emissions (ZEC50) estimated from the eleven ESMs?",80199e4da1b63868_p0186,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the mean value of ZEC50, as summarized in Table 4.8, and what is its 5–95% range?",80199e4da1b63868_p0187,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the approximate radiative forcing level reached by SSP5-8.5 during most of its extension, and how does it compare to the RCP8.5 extension?",80199e4da1b63868_p0187,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the temperature increase in the high-emissions scenario SSP5-8.5, as shown in Figure 4.40?",80199e4da1b63868_p0188,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Table 4.9, what is the 5-95% range of GSAT change at 2300 relative to 1850-1900 for the scenario SSP3-7.0?",80199e4da1b63868_p0188,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the temperature difference between SSP5-3.4-OS and SSP1-2.6 in the 21st century, according to the text?",80199e4da1b63868_p0189,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the approximate temperature range for the Miocene Climatic Optimum, according to the text?",80199e4da1b63868_p0189,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the expected change in global land precipitation under the RCP8.5 scenario according to the HadGEM2-ES model?,80199e4da1b63868_p0190,2,"[1, 0]",0.5,1.0,1.0,1.0
+How do the results of Cao et al. (2011) explain the intensification of the hydrological cycle following CO2 decrease?,80199e4da1b63868_p0190,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the year by which the Arctic becomes ice-free nearly year-round under the RCP8.5 extension, according to Hezel et al. (2014) and Bathiany et al. (2016)?",80199e4da1b63868_p0191,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"Which CMIP6 model, according to Figure 4.40, shows near complete recovery of Arctic sea ice to present-day values by 2300?",80199e4da1b63868_p0191,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of abrupt climate change, according to the definition adopted by AR6?",80199e4da1b63868_p0192,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How does the data in this section show a change in the assessment of the reversibility of Earth system components, compared to AR5 and SROCC?",80199e4da1b63868_p0192,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the decline in frozen carbon in Permafrost Carbon, according to the text?",80199e4da1b63868_p0193,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How does the text indicate that the models may be prone to being too stable, as mentioned in the section on Global Climate: Scenario-based Projections and Near-term Information?",80199e4da1b63868_p0193,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of uncertainty in projections of future warming under moderate to strong emissions scenarios, according to Section 7.5.7?",80199e4da1b63868_p0194,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How does the data in this section show a 2°C-3°C warming over much of Eurasia and North America, and more than 4°C warming relative to 1995–2014 over the Arctic, according to Figure 4.41c?",80199e4da1b63868_p0194,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the range of additional warming (in °C) shown in panel (g) and (h) for the very-high-warming storyline under the SSP5-8.5 scenario?,80199e4da1b63868_p0195,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the approximate warming (in °C) projected over most extratropical land regions and Amazonia in the high-warming storyline under the SSP5-8.5 scenario, relative to 1995-2014?",80199e4da1b63868_p0195,2,"[0, 1]",0.5,1.0,0.5,0.6309
+"What is the range of additional warming (in °C) associated with high-emissions scenarios SSP3-7.0 and SSP5-8.5, compared to the best-estimate warming?",80199e4da1b63868_p0196,2,"[1, 0]",0.5,1.0,1.0,1.0
+"Over which regions does a high-warming storyline under SSP5-8.5 imply more than 8°C warming, according to the text?",80199e4da1b63868_p0196,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of changes in annual mean precipitation under the SSP5-8.5 scenario, as shown in Figure 4.42?",80199e4da1b63868_p0197,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How does the histogram in Figure 4.42 (g) illustrate the spread and central tendency of precipitation changes across CMIP6 models, particularly for very-high warming models?",80199e4da1b63868_p0197,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of natural variability that affects climate predictions over the next 20 years?,80199e4da1b63868_p0200,2,"[0, 0]",0.0,0.0,0.0,0.0
+"According to Figure 1, what is the deviation from the average global surface temperature over the period 1995-2014 for the high-emissions scenario (SSP3-7.0) in the next 20 years?",80199e4da1b63868_p0200,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the approximate time frame after which the increase in atmospheric CO2 concentrations would slow visibly under the lower-emissions scenarios considered in this Report?,80199e4da1b63868_p0201,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How long would it take to detect the slowing down of global surface warming after reducing emissions of carbon dioxide, according to the text?",80199e4da1b63868_p0201,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the approximate timeframe for atmospheric CO2 concentration to reflect sustained reduction in emissions?,80199e4da1b63868_p0203,2,"[1, 0]",0.5,1.0,1.0,1.0
+How does the data in Figure 1 of FAQ 4.2 show the difference in CO2 concentration between a low-emissions scenario (SSP1-2.6) and a high-emissions scenario (SSP3-7.0)?,80199e4da1b63868_p0203,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary reason for the relatively slower warming of the Southern Hemisphere high latitudes compared to the Northern Hemisphere high latitudes?,80199e4da1b63868_p0204,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the expected precipitation change in the subtropical regions as the level of global warming increases?",80199e4da1b63868_p0204,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of regional changes in temperature and precipitation, according to Figure 1 in FAQ 4.3?",80199e4da1b63868_p0205,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How many CMIP6 models are used to calculate the changes in surface warming and precipitation change, as presented in this section, for the high-emissions scenario SSP3-7.0?",80199e4da1b63868_p0205,2,"[0, 0]",0.0,0.0,0.0,0.0
 What is the primary driver of the temperature anomaly increase in the Global Ocean (a) scenario?,9de8d8be57d13360_p0039,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-How does the aerosol only scenario in the North America (d) region show a decrease in temperature anomaly compared to the other scenarios?,9de8d8be57d13360_p0039,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"What is the approximate rate of warming trend over global land surfaces attributed to anthropogenic forcing, as reported by Chan and Wu (2015)?",9de8d8be57d13360_p0040,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to the text, what is the primary driver of the apparent slowdown in warming over the beginning of the 21st century?",9de8d8be57d13360_p0040,3,"[0, 1, 0]",0.3333,1.0,0.5,0.6309
-"What is the primary driver of GSAT warming between 2010-2019 and 1850-1900, according to the assessment in this section?",9de8d8be57d13360_p0041,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the likely range of GSAT warming attributable to aerosols, ozone, and land-use change, as assessed in this section?",9de8d8be57d13360_p0041,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+How does the aerosol only scenario show a decrease in temperature anomaly in the North America (d) region?,9de8d8be57d13360_p0039,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the approximate rate of warming over global land surfaces attributed to anthropogenic forcing, as reported by Chan and Wu (2015)?",9de8d8be57d13360_p0040,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Friedman et al. (2020), what is the reason for the Northern Hemisphere reversal in surface temperature change, as observed in the inter-hemispheric contrast?",9de8d8be57d13360_p0040,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary driver of GSAT warming between 2010–2019 and 1850–1900, according to the assessment in this section?",9de8d8be57d13360_p0041,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the likely range of GSAT warming attributable to aerosols, ozone, and land-use change, as assessed in this section?",9de8d8be57d13360_p0041,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the best estimate of human-induced warming rate given by the IPCC SR1.5 in 2017?,9de8d8be57d13360_p0042,2,"[1, 0]",0.5,1.0,1.0,1.0
-What is the primary reason for the disagreement in anthropogenic attributable warming rate estimates between Gillett et al. (2021) and Ribes et al. (2021)?,9de8d8be57d13360_p0042,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"What is the primary driver of the warming of the troposphere since 1961, according to the AR5 assessment?",9de8d8be57d13360_p0043,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary reason for the disagreement between the estimates of anthropogenic attributable warming rate from Haustein et al. (2017) and Gillett et al. (2021)?,9de8d8be57d13360_p0042,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the warming of the troposphere since 1961, according to the AR5 assessment?",9de8d8be57d13360_p0043,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What is the likely contribution of ozone-depleting substances to the cooling of the lower stratosphere since 1979, as stated in this section?",9de8d8be57d13360_p0043,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"According to Flannaghan et al. (2014) and Tuel (2019), what percentage of the tropospheric temperature trend difference between CMIP5 models and satellite-based observations over the 1970–2018 period is due to respective differences in SST warming trends in regions of deep convection?",9de8d8be57d13360_p0044,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the discrepancy in mid- to upper-tropospheric temperature trends between models and observations over the satellite era, as found by Santer et al. (2017b), after removing the influence of stratospheric cooling by regression?",9de8d8be57d13360_p0044,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the exact range of the X-axis, representing temperature trend (°C/decade), in this sub-panel?",9de8d8be57d13360_p0045,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"How many CMIP6 models, using prescribed sea surface temperatures (SSTs), are represented by blue squares in this sub-panel?",9de8d8be57d13360_p0045,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What percentage of the difference between simulated and observed tropical tropospheric warming trends is attributed to an overestimate of the SST trend during the period 1979–2012, according to Flato et al. (2013)?",9de8d8be57d13360_p0044,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Mitchell et al. (2020), what is the approximate altitude (in hPa) at which biases in tropospheric temperature trends between CMIP6 models and observations exceed 0.1°C per decade?",9de8d8be57d13360_p0044,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the range of the X-axis in the sub-panel (a) figure, representing temperature trend (°C/decade)?",9de8d8be57d13360_p0045,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the specific dataset version used for the RICH-observations members that are shaded in the sub-panel (a) figure?,9de8d8be57d13360_p0045,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What is the exact range of the X-axis, representing temperature trend (°C/decade), in this sub-panel?",9de8d8be57d13360_p0046,3,"[0, 0, 1]",0.3333,1.0,0.3333,0.5
-"How many CMIP6 models, using prescribed SSTs, are represented by blue squares in this sub-panel?",9de8d8be57d13360_p0046,3,"[0, 0, 1]",0.3333,1.0,0.3333,0.5
-"What is the exact range of the X-axis, representing temperature trend (°C/decade), in this section?",9de8d8be57d13360_p0047,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"How many CMIP6 models, using prescribed SSTs, are represented by blue squares in this figure?",9de8d8be57d13360_p0047,2,"[0, 0]",0.0,0.0,0.0,0.0
+"How many CMIP6 models are represented by blue squares, which show trends in models that used prescribed, rather than simulated, SSTs?",9de8d8be57d13360_p0046,2,"[0, 0]",0.0,0.0,0.0,0.0
+"What is the exact range of the X-axis, representing temperature trend (°C/decade), in this sub-panel?",9de8d8be57d13360_p0047,3,"[0, 1, 0]",0.3333,1.0,0.5,0.6309
+"How many CMIP6 models, using prescribed SSTs, are represented by blue squares in this sub-panel?",9de8d8be57d13360_p0047,3,"[0, 1, 0]",0.3333,1.0,0.5,0.6309
 "What is the primary driver of tropospheric temperature changes, according to Mitchell et al. (2020)?",9de8d8be57d13360_p0048,2,"[1, 0]",0.5,1.0,1.0,1.0
 "How do CMIP5 climate models overestimate the observed natural variability in global mean tropospheric temperature on time scales of 5–20 years, as found by Pallotta and Santer (2020)?",9de8d8be57d13360_p0048,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the upper-stratospheric cooling since 1979, according to Mitchell (2016)?",9de8d8be57d13360_p0049,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-How do the results of Aquila et al. (2016) support the assessment that changes in greenhouse gas concentrations are the main cause of the cooling of the middle and upper stratosphere after 1979?,9de8d8be57d13360_p0049,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What percentage of the upper-stratospheric temperature change since 1979 is attributed to greenhouse gases, based on the findings of Aquila et al. (2016)?",9de8d8be57d13360_p0049,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 What is the primary driver of the apparent slowdown of surface global warming compared to the 62-year rate?,9de8d8be57d13360_p0051,2,"[1, 0]",0.5,1.0,1.0,1.0
-How do CMIP5 simulations relate to the observed slower warming trend in the 1998–2012 period?,9de8d8be57d13360_p0051,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How do CMIP5 simulations in AR5 show a discrepancy with the observed slower warming, according to the text?",9de8d8be57d13360_p0051,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the upward revision in GMST trends from AR5 to the latest data products?,9de8d8be57d13360_p0052,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-How do the observed GMST trends over 1998-2012 compare to the 10th-90th percentile range of simulated trends in the CMIP5 and CMIP6 simulations?,9de8d8be57d13360_p0052,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-What is the primary driver of the internally-driven slowdown of GSAT increase during the 1998–2012 period?,9de8d8be57d13360_p0053,2,"[0, 1]",0.5,1.0,0.5,0.6309
-"According to the text, what is the estimated relationship between Pacific Decadal Variability (PDV) and GSAT, as estimated from observations and model simulations?",9de8d8be57d13360_p0053,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What studies, according to this section, found no net effect of updated anthropogenic aerosols on GSAT trends?",9de8d8be57d13360_p0054,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"What is the specific solar irradiance event mentioned in this section as contributing to a negative contribution to radiative forcing, and which study is cited for this finding?",9de8d8be57d13360_p0054,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the range of GMST trends over the period 1998-2012 reported in Chapter 2 Table 2.4?,9de8d8be57d13360_p0052,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the primary driver of the decadal GSAT fluctuations identified in this section?,9de8d8be57d13360_p0053,2,"[0, 0]",0.0,0.0,0.0,0.0
+How does the PDV-GSAT relationship estimated from observations and model simulations in this section show a negative PDV trend during the slow warming period?,9de8d8be57d13360_p0053,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What studies, as cited in this section, found no net effect of updated anthropogenic aerosols on GSAT trends?",9de8d8be57d13360_p0054,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to this section, what is the primary reason for the difference between observed and CMIP5 GMST trends?",9de8d8be57d13360_p0054,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the heat redistribution in the top 350 m of the Indian and Pacific Oceans during the slower surface warming period?,9de8d8be57d13360_p0055,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to this section, what is the main contributor to reduced surface warming during the slower surface warming period?",9de8d8be57d13360_p0055,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+How does the data in this section show a larger Earth's energy imbalance in the 2000s compared to the 1985–1999 period?,9de8d8be57d13360_p0055,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the slower GMST and GSAT increase inferred from observations in the 1998–2012 period?,9de8d8be57d13360_p0056,2,"[1, 0]",0.5,1.0,1.0,1.0
 "According to the text, what is the reason for the end of the slower warming period, as indicated by the 2014–2016 El Niño event?",9de8d8be57d13360_p0056,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of GSAT variability weakening under GSAT warming, as mentioned in Section 4.5.3.5 (Brown et al., 2017)?",9de8d8be57d13360_p0057,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do large volcanic eruptions affect GSAT, as described in Cross-Chapter Box 4.1?",9de8d8be57d13360_p0057,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of the systematic drying in recent decades in mainly subtropical regions, as mentioned in this section?",9de8d8be57d13360_p0059,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to Figure 3.11, what is the result of comparing the latitudinal gradient of annual precipitation changes in the European–African sector simulated by CMIP6 models for the mid-Holocene with pollen-based reconstructions?",9de8d8be57d13360_p0059,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the weakening of internal decadal GSAT variability under GSAT warming, as mentioned in Section 4.5.3.5 (Brown et al., 2017)?",9de8d8be57d13360_p0057,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"According to the text, what is the effect of a large volcanic eruption on GSAT, as mentioned in Cross-Chapter Box 4.1?",9de8d8be57d13360_p0057,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary driver of the systematic drying in recent decades in some, mainly subtropical, regions?",9de8d8be57d13360_p0059,2,"[1, 0]",0.5,1.0,1.0,1.0
+How do paleoclimate simulations of monsoons assess the contribution of anthropogenic forcing versus natural variability in sedimentary paleorecords spanning the last millennium?,9de8d8be57d13360_p0059,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the specific region where CMIP5 models accurately reproduce an increase in moisture, related to an intensified winter storm track and decreased evaporative demand?",9de8d8be57d13360_p0060,2,"[1, 0]",0.5,1.0,1.0,1.0
-What is the effect of the exposure of the tropical shelves during glacial times on the variable response across CMIP5 models in the tropical Indo-Pacific region?,9de8d8be57d13360_p0060,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the effect of the exposure of the tropical shelves during glacial times on the variable response of CMIP5 models in the tropical Indo-Pacific region?,9de8d8be57d13360_p0060,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the observed moistening trend of the upper troposphere over the 1979–2005 period?,9de8d8be57d13360_p0061,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do CMIP5 models show a wet bias in the tropical upper troposphere and a dry bias in the lower troposphere, according to Jiang et al. (2012) and Tian et al. (2013)?",9de8d8be57d13360_p0061,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of the southward shift in the ITCZ prior to 1975, as detected in reanalysis using CMIP5 models?",9de8d8be57d13360_p0062,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do CMIP6 models better represent the storm tracks compared to CMIP5 models, leading to reduced precipitation biases in the North Atlantic and mid-latitudes of the Southern Hemisphere?",9de8d8be57d13360_p0062,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of the reduction in global precipitation, particularly over the wet tropics, as mentioned in the section?",9de8d8be57d13360_p0063,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the reason for the majority of well-established water vapour records being affected by inhomogeneity issues?",9de8d8be57d13360_p0061,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the southward shift in the ITCZ prior to 1975, as detected in reanalysis by CMIP5 models?",9de8d8be57d13360_p0062,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do CMIP6 models better represent the storm tracks, as compared to CMIP5 models, and what is the impact on precipitation biases in the North Atlantic and mid-latitudes of the Southern Hemisphere?",9de8d8be57d13360_p0062,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the reduction in global precipitation, particularly over the wet tropics, as mentioned in this section?",9de8d8be57d13360_p0063,2,"[1, 0]",0.5,1.0,1.0,1.0
 "According to the text, what is the expected intensification of the wet–dry zonal mean patterns in response to greenhouse gas and ozone changes?",9de8d8be57d13360_p0063,2,"[1, 0]",0.5,1.0,1.0,1.0
-What is the threshold for a region to be considered with a robust signal in this figure?,9de8d8be57d13360_p0064,2,"[0, 1]",0.5,1.0,0.5,0.6309
-"What is the method used to calculate the scaling factors (c, d) in this figure?",9de8d8be57d13360_p0064,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the threshold for a region to be considered with a robust signal in the grid overlay?,9de8d8be57d13360_p0064,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the method used to calculate the scaling factors (c, d) in Figure 3.14?",9de8d8be57d13360_p0064,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What is the primary driver of the observed strengthening contrast of precipitation over wet and dry regions, as attributed to a combination of anthropogenic and natural forcings, with anthropogenic forcings detectable in multi-signal analyses (Figure 3.14; Schurer et al., 2020)?",9de8d8be57d13360_p0068,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How does the data in this section show a 2% increase in global land precipitation since the middle of the 20th century, with medium confidence, while there is low confidence in trends in land data prior to 1950 and over the ocean during the satellite era due to disagreement between datasets (Section 2.3.1.3.4)?",9de8d8be57d13360_p0068,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Figure 3.15, Panel (a), what is the trend in observed precipitation anomaly over the period 1950-2010, and how does it compare to the simulated anthropogenic + natural forcings and natural forcings only?",9de8d8be57d13360_p0068,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the observed precipitation increase in the Northern Hemisphere high latitudes over the period 1966-2005, according to a study using CMIP5 models?",9de8d8be57d13360_p0069,2,"[0, 1]",0.5,1.0,0.5,0.6309
-"How do the observed trends in precipitation change over the period 1901-2010 compare to the modelled trends in the CMIP5 historical runs, and what might be the reasons for this discrepancy?",9de8d8be57d13360_p0069,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of the precipitation increase observed in Northern Hemisphere high latitudes over the period 1966–2005, according to a study using CMIP5 models?",9de8d8be57d13360_p0070,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the relationship between changes in eddy activity and the poleward shift of the westerlies, as found in the study by Solman and Orlanski (2016)?",9de8d8be57d13360_p0070,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of streamflow changes in southern Europe, according to Gudmundsson et al. (2017)?",9de8d8be57d13360_p0071,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do the observed trends in precipitation over land regions since 1901 compare to the simulated trends in the CMIP5 historical runs for the 1901-2010 period, and what might be the reasons for the discrepancies?",9de8d8be57d13360_p0069,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the precipitation increase observed in the Northern Hemisphere high latitudes over the period 1966–2005, according to the study using CMIP5 models?",9de8d8be57d13360_p0070,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the relationship between changes in eddy activity and the poleward shift of the westerlies, as found by Solman and Orlanski (2016) in the Southern Hemisphere extratropics?",9de8d8be57d13360_p0070,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the observed decrease in streamflow in southern Europe and increase in streamflow in northern Europe, according to Gudmundsson et al. (2017)?",9de8d8be57d13360_p0071,2,"[1, 0]",0.5,1.0,1.0,1.0
 "How do CMIP5 models reproduce spatial variations in runoff in North America, according to Sheffield et al. (2013)?",9de8d8be57d13360_p0071,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of changes in temperature extremes, according to model projections in Seneviratne et al. (2016) and Kharin et al. (2018)?",9de8d8be57d13360_p0072,2,"[1, 0]",0.5,1.0,1.0,1.0
 "How do aerosol changes affect the increase in hot extremes globally and over most continents over the 1951–2015 period, as found in Hu et al. (2020) and Seong et al. (2021)?",9de8d8be57d13360_p0072,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the rate at which annual maximum one-day precipitation increases with global mean temperature, as observed and simulated in models?",9de8d8be57d13360_p0073,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to Section 11.4.4, what fraction of land regions show enhanced extreme precipitation and a larger probability of record-breaking one-day precipitation, and what can explain this phenomenon?",9de8d8be57d13360_p0073,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Section 11.4.4, what fraction of land regions show enhanced extreme precipitation and a larger probability of record-breaking one-day precipitation, and what is the explanation for this finding?",9de8d8be57d13360_p0073,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What is the primary driver of the observed intensification of heavy precipitation in global land regions during recent decades, according to Chapter 11?",9de8d8be57d13360_p0074,2,"[1, 0]",0.5,1.0,1.0,1.0
 What type of forcing is quantified by Dong et al. (2020) and Paik et al. (2020b) as contributing to the long-term intensification of extreme precipitation on global and continental scales?,9de8d8be57d13360_p0074,2,"[1, 0]",0.5,1.0,1.0,1.0
-What is the specific time period used for the historical simulations in the CMIP5 multi-model ensemble?,9de8d8be57d13360_p0075,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How are the anomalies in Figure 1 relative to, and what is the reference period used for the anomalies?",9de8d8be57d13360_p0075,2,"[0, 0]",0.0,0.0,0.0,0.0
+What is the time period used for the historical simulations in the CMIP5 multi-model ensemble?,9de8d8be57d13360_p0075,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the relative reference period for the anomalies shown in Figure 1?,9de8d8be57d13360_p0075,2,"[0, 0]",0.0,0.0,0.0,0.0
 What is the location of the downwelling branch of the Hadley circulation cell in the zonal mean?,9de8d8be57d13360_p0077,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to AR5, what was the effect of greenhouse gas forcing on the Walker circulation since the early 1990s?",9de8d8be57d13360_p0077,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"According to AR5, what was the effect of greenhouse gas forcing on the Walker circulation since the early 1990s?",9de8d8be57d13360_p0077,3,"[0, 0, 0]",0.0,0.0,0.0,0.0
 "What is the primary driver of the widening of the Hadley circulation since the 1980s, according to Chapter 2?",9de8d8be57d13360_p0078,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 How do CMIP6 models show that the trend in the annual-mean Southern Hemisphere edge of the Hadley cell is outside the 5th–95th percentile range of internal variability in three out of the four reanalyses?,9de8d8be57d13360_p0078,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the weakening of the Pacific Walker circulation in CMIP6 simulations?,9de8d8be57d13360_p0079,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do CMIP6 historical simulations show a weakening of the Pacific Walker circulation over the 20th century, despite a strengthening of the equatorial zonal SST gradient since 1870?",9de8d8be57d13360_p0079,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of the strengthening of the Walker circulation over the period 1951-2010, as shown in Figure 3.16e?",9de8d8be57d13360_p0080,2,"[0, 1]",0.5,1.0,0.5,0.6309
-"According to the text, what is the source of large uncertainty in aerosol influence on the Walker circulation, as seen in CMIP6 (Figure 3.16f)?",9de8d8be57d13360_p0080,2,"[1, 0]",0.5,1.0,1.0,1.0
+How do CMIP5 and CMIP6 historical simulations compare in terms of simulating the trend in the Pacific Walker circulation strength over the 1901–2010 period?,9de8d8be57d13360_p0079,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the strengthening of the Walker circulation over the period 1951-2010, as suggested by the text?",9de8d8be57d13360_p0080,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the source of the large uncertainty in aerosol influence on the Walker circulation, and where is this uncertainty also seen in CMIP6?",9de8d8be57d13360_p0080,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the time period during which human influence on the poleward expansion of the zonal mean Hadley cell in the Southern Hemisphere is detectable (medium confidence)?,9de8d8be57d13360_p0081,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-What is the reason for the low confidence in the assessment of the causes of the observed strengthening of the Pacific Walker circulation over the 1980–2014 period?,9de8d8be57d13360_p0081,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the reason for the low confidence in the causes of the observed strengthening of the Pacific Walker circulation over the 1980–2014 period?,9de8d8be57d13360_p0081,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What is the primary driver of the large-magnitude intensifications and weakenings in the global monsoon, as indicated by paleoclimate proxy evidence?",9de8d8be57d13360_p0082,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to studies of last millennium simulations, what forcing source is more effective in changing the global monsoon precipitation over the last millennium, compared to greenhouse gas and solar variations?",9de8d8be57d13360_p0082,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the main reason why CMIP5 models underestimate the monsoon expansion found in proxy reconstructions during the mid-Holocene?",9de8d8be57d13360_p0082,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the 2% increase in global summer monsoon precipitation intensity from the 1950s to 1980s, as shown in Figure 3.17c?",9de8d8be57d13360_p0083,2,"[0, 1]",0.5,1.0,0.5,0.6309
-"According to Y. Zhang et al. (2018), how well do CMIP5 historical simulations capture the observed 1951–2004 trends of the global and Northern Hemisphere summer land monsoon precipitation intensity?",9de8d8be57d13360_p0083,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of the weakening of global land summer monsoon precipitation intensity from the 1950s to the 1980s, as indicated by CMIP5 and CMIP6 historical simulations?",9de8d8be57d13360_p0084,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to the text, what is the reason for the intensification of the Northern Hemisphere summer monsoon circulation since the 1980s, as shown in Figure 3.17d?",9de8d8be57d13360_p0084,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Y. Zhang et al. (2018), what is the result of CMIP6 models in simulating the observed 1951–2004 trends of global and Northern Hemisphere summer land monsoon precipitation intensity?",9de8d8be57d13360_p0083,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the weakening of global land summer monsoon precipitation intensity from the 1950s to the 1980s, according to CMIP5 and CMIP6 historical simulations?",9de8d8be57d13360_p0084,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do CMIP5 and CMIP6 models fail to capture the variations of the Northern Hemisphere summer monsoon circulation, as shown in Figure 3.17d?",9de8d8be57d13360_p0084,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of biases in the simulation of blocking events in the Euro-Atlantic sector, according to Davini and D'Andrea (2020)?",9de8d8be57d13360_p0085,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do CMIP6 models perform in simulating the placement of the Southern Ocean storm track during summer (December to February) compared to CMIP5 models, as reported by Priestley et al. (2020)?",9de8d8be57d13360_p0085,2,"[1, 0]",0.5,1.0,1.0,1.0
-What is the primary driver of the observed poleward shift of the westerly jet and Southern Hemisphere circulation zones in austral summer?,9de8d8be57d13360_p0086,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"According to the text, what is the magnitude of the observed reduction in cyclone activity in the Northern Hemisphere in summer?",9de8d8be57d13360_p0086,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do CMIP6 models perform in simulating the placement of the Southern Ocean storm track during summer (December to February) compared to CMIP5 models, as found by Priestley et al. (2020)?",9de8d8be57d13360_p0085,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of the observed poleward shift of the jet in austral summer in the Southern Hemisphere?,9de8d8be57d13360_p0086,3,"[0, 1, 0]",0.3333,1.0,0.5,0.6309
+"According to the text, what is the magnitude of the observed reduction in cyclone activity by in the Northern Hemisphere in summer?",9de8d8be57d13360_p0086,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the decrease in zonal wind speed in the Southern Hemisphere during the period 1985–2014, as shown in both ERA5 and CMIP6?",9de8d8be57d13360_p0087,2,"[1, 0]",0.5,1.0,1.0,1.0
 "How do the CMIP6 models show a slightly steeper trend in zonal wind speed compared to ERA5, as indicated by the linear trend color-coding in Figure 3.19?",9de8d8be57d13360_p0087,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of SSWs, according to Seviour et al. (2016)?",9de8d8be57d13360_p0088,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do CMIP5 models with limited stratospheric resolution differ from stratosphere-resolving models in terms of SSW frequency, as found by Osprey et al. (2013) and J. Kim et al. (2017)?",9de8d8be57d13360_p0088,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do CMIP5 models with limited stratospheric resolution differ from stratosphere-resolving models in terms of SSW frequency, according to Osprey et al. (2013) and J. Kim et al. (2017)?",9de8d8be57d13360_p0088,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the recent Arctic sea ice loss during summer, according to the text?",9de8d8be57d13360_p0090,2,"[0, 0]",0.0,0.0,0.0,0.0
 "How do CMIP6 models on average better capture the observed Arctic sea ice decline compared to CMIP5 models, as stated in the text?",9de8d8be57d13360_p0090,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the time period covered by the data in Figure 3.20, specifically for the Arctic sea ice area in September?",9de8d8be57d13360_p0091,2,"[0, 1]",0.5,1.0,0.5,0.6309
-"What is the unit of measurement for the trend on the y-axis in Figure 3.20, as described in the text?",9de8d8be57d13360_p0091,2,"[1, 0]",0.5,1.0,1.0,1.0
-What models are represented by different colors and symbols in the legend of the Arctic SIA in September panel?,9de8d8be57d13360_p0092,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the unit of measurement for the trend on the y-axis in Figure 3.20, as mentioned in the text?",9de8d8be57d13360_p0091,2,"[0, 0]",0.0,0.0,0.0,0.0
+What models are represented by different colors and symbols in the legend of the Arctic SIA in September plot?,9de8d8be57d13360_p0092,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the correlation coefficient (r) and p-value for the linear regression trend of the Arctic SIA in September?,9de8d8be57d13360_p0092,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-What models are represented by different colors and symbols in the legend of the Antarctic SIA in February panel?,9de8d8be57d13360_p0093,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What models are represented by different colors and symbols in the legend on the right side of the panel for the Antarctic SIA in February?,9de8d8be57d13360_p0093,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 What is the correlation coefficient (r) and p-value for the linear regression trend of the Antarctic SIA in February?,9de8d8be57d13360_p0093,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What percentage of the observed September sea ice melting trend is explained by internal variability, according to the text?",9de8d8be57d13360_p0094,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"What is the main driver of Arctic sea ice loss since 1979, according to the text?",9de8d8be57d13360_p0094,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of the observed increase in Antarctic sea ice since 1979, according to the text?",9de8d8be57d13360_p0095,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"How does the data in this section show a 2% increase in Antarctic sea ice cover over the 1979–2017 period, and what is the significance of this change?",9de8d8be57d13360_p0095,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What percentage of the observed September sea ice melting trend is explained by internal variability, according to the text?",9de8d8be57d13360_p0094,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the main driver of Arctic sea ice loss since 1979, as concluded by the text?",9de8d8be57d13360_p0094,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the Antarctic sea ice increase observed since 1979, according to the text?",9de8d8be57d13360_p0095,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How does the discrepancy between CMIP5 and CMIP6 models' simulations of Antarctic sea ice loss, and the observed trend, suggest that the models may be exhibiting an unrealistic simulation of the Antarctic sea ice forced response or internal variability?",9de8d8be57d13360_p0095,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the general decrease in Arctic SIA from the 1980s to the 2010s, as shown in the top panel of the observations?",9de8d8be57d13360_p0099,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-How does the natural only simulations (bottom panel) show a less pronounced decrease in Arctic SIA compared to the observations?,9de8d8be57d13360_p0099,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+How does the data in this section show a less pronounced decrease in Antarctic SIA in natural only simulations compared to observations?,9de8d8be57d13360_p0099,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What are the distinct factors that led to the weak signal-to-noise ratio in Antarctic SIE trends, as identified in this section?",9de8d8be57d13360_p0100,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the duration of the comprehensive satellite observations that began in 1979, and what is the observed increase in Antarctic sea ice extent during this period?",9de8d8be57d13360_p0100,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the observed reduction in spring snow cover over the period since 1970, according to the AR5?",9de8d8be57d13360_p0101,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"How do CMIP6 models improve on CMIP5 models in simulating snow cover extent, specifically in terms of the median model's post-1981 declines in the March to April mean SCE?",9de8d8be57d13360_p0101,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do CMIP6 models compare to CMIP5 models in terms of reproducing the observed reduction in spring snow cover over the period since 1970, as shown in Figure 3.22?",9de8d8be57d13360_p0101,2,"[0, 1]",0.5,1.0,0.5,0.6309
 What is the primary driver of the scenarios 'All forcings (29)' and 'Natural forcing (9)' used in the CMIP5 simulations?,9de8d8be57d13360_p0102,3,"[0, 0, 0]",0.0,0.0,0.0,0.0
 What is the range of the 5th–95th percentile for the ensemble mean of the 'All forcings (29)' scenario?,9de8d8be57d13360_p0102,2,"[0, 0]",0.0,0.0,0.0,0.0
-"What is the primary driver of the scenarios included in the legend of Panel 2, specifically 'All forcings (27)' and 'Natural forcing (9)'?",9de8d8be57d13360_p0103,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the unit of measurement represented by the Y-axis in Panel 2, specifically the SCE anomaly in 10^6 km^2?",9de8d8be57d13360_p0103,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the primary driver of the scenarios included in the 'All forcings (27)' and 'Natural forcing (9)' categories?,9de8d8be57d13360_p0103,2,"[0, 0]",0.0,0.0,0.0,0.0
+What is the source of the observed SCE anomalies represented by the grey lines in this panel?,9de8d8be57d13360_p0103,2,"[0, 1]",0.5,1.0,0.5,0.6309
 What is the specific time period over which CMIP6 models show a more pronounced decrease in SCE compared to CMIP5?,9de8d8be57d13360_p0106,2,"[0, 1]",0.5,1.0,0.5,0.6309
 "According to Paik and Min (2020), what is the time period over which greenhouse gas influence was detected in the observed decrease of early spring SCE?",9de8d8be57d13360_p0106,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of large-scale changes in glaciers and ice sheets, as attributed in this section?",9de8d8be57d13360_p0107,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"In CMIP6, what is the name of the project that includes a coordinated effort to simulate temporally evolving ice sheets, as mentioned in this section?",9de8d8be57d13360_p0107,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary driver of large-scale changes in glaciers and ice sheets, according to this section?",9de8d8be57d13360_p0107,3,"[0, 0, 1]",0.3333,1.0,0.3333,0.5
+"In what year was the Ice Sheet Model Intercomparison Project (ISMIP6) first included in the CMIP phase, as mentioned in this section?",9de8d8be57d13360_p0107,3,"[0, 1, 0]",0.3333,1.0,0.5,0.6309
 "What is the primary driver of glacier recession, according to the SROCC assessment?",9de8d8be57d13360_p0108,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What percentage of cumulative glacier mass loss since 1850 is attributable to anthropogenic influence, as estimated by Roe et al. (2021)?",9de8d8be57d13360_p0108,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of the increase in summer melting of the Greenland Ice Sheet, according to the SROCC?",9de8d8be57d13360_p0110,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"What is the approximate rate of mass loss from the Greenland Ice Sheet since the turn of the 21st century, as assessed with high confidence in Section 2.3.2.4.1?",9de8d8be57d13360_p0110,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"What is the primary driver of Antarctic ice loss, according to the SROCC, as stated in this section?",9de8d8be57d13360_p0111,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"What is the level of confidence in the assessment that Antarctic ice loss has accelerated, as stated in this section?",9de8d8be57d13360_p0111,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the surface melting of the Greenland Ice Sheet since 1993, according to the AR5 assessment?",9de8d8be57d13360_p0110,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the approximate rate of mass loss from the Greenland Ice Sheet over the past twenty years, as indicated by ice-sheet mass balance calculations using reanalysis-driven regional model simulations?",9de8d8be57d13360_p0110,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary driver of the acceleration, retreat and rapid thinning of the major West Antarctic Ice Sheet outlet glaciers?",9de8d8be57d13360_p0111,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the current state of anthropogenic influence on the Antarctic surface mass balance, as masked by natural variability?",9de8d8be57d13360_p0111,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 What is the primary driver of the simulated ocean's diurnal cycle in the context of coupled models?,9de8d8be57d13360_p0112,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"How do model resolutions of 10–100 km (compared to 200 km in CMIP5) impact the fidelity of ocean models, according to Hewitt et al. (2017)?",9de8d8be57d13360_p0112,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"What is the primary driver of the warm surface temperature bias in the Southern Ocean, as mentioned in the text?",9de8d8be57d13360_p0114,2,"[1, 0]",0.5,1.0,1.0,1.0
-How does the CMIP6 multi-model mean zonally averaged subsurface ocean temperature compare to the CMIP5 multi-model mean in terms of warm biases between 200 m and 2000 m over most latitudes?,9de8d8be57d13360_p0114,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the expected fidelity improvement in ocean models with horizontal resolutions increasing to 10–100 km compared to CMIP5?,9de8d8be57d13360_p0112,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the warm surface temperature bias in the Southern Ocean, as mentioned in the text?",9de8d8be57d13360_p0114,2,"[0, 1]",0.5,1.0,0.5,0.6309
+"How does the CMIP6 multi-model mean zonally averaged subsurface ocean temperature compare to the CMIP5 models in terms of warm and cold biases, as described in the text?",9de8d8be57d13360_p0114,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the warm bias in the equatorial Pacific Ocean in the CMIP6 model, as shown in Figure 3.24?",9de8d8be57d13360_p0115,2,"[1, 0]",0.5,1.0,1.0,1.0
 "How does the CMIP6 model compare to CMIP5 in terms of the magnitude of the deep ocean warm bias, as shown in Figure 3.25?",9de8d8be57d13360_p0115,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the magnitude of the deep ocean warm bias in the CMIP6 ensemble mean, compared to the equivalent CMIP5 multi-model mean bias?",9de8d8be57d13360_p0116,2,"[1, 0]",0.5,1.0,1.0,1.0
-"In which ocean basins does the CMIP6 ensemble mean show a cold bias, according to the text?",9de8d8be57d13360_p0116,2,"[1, 0]",0.5,1.0,1.0,1.0
-What specific ocean basins are shown in panels (a) and (b) of the multi-panel breakdown?,9de8d8be57d13360_p0119,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"According to the text, what is the typical horizontal resolution of CMIP6 models, and what is the effect of increasing this resolution on the simulation of eddies and temperature drifts in the deeper ocean?",9de8d8be57d13360_p0119,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the deep ocean warm bias in the CMIP6 ensemble mean, as shown in Figure 3.25?",9de8d8be57d13360_p0116,2,"[0, 1]",0.5,1.0,0.5,0.6309
+"How does the magnitude of the deep ocean warm bias in CMIP6 compare to the equivalent CMIP5 multi-model mean bias, according to this section?",9de8d8be57d13360_p0116,2,"[1, 0]",0.5,1.0,1.0,1.0
+What specific ocean basins are shown in panels (a) and (b) in the Multi-panel Breakdown?,9de8d8be57d13360_p0119,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"According to the text, what is the typical horizontal resolution of CMIP6 models, and what is the effect of increasing this resolution on simulated vertical eddy transport?",9de8d8be57d13360_p0119,2,"[1, 0]",0.5,1.0,1.0,1.0
 What are the suggested reasons for the persistent biases in the tropical Pacific Ocean in CMIP5 models?,9de8d8be57d13360_p0121,2,"[1, 0]",0.5,1.0,1.0,1.0
 How does the representation of the tropical Pacific mean state in CMIP6 models compare to CMIP5 models in terms of the longitude of the 28°C isotherm?,9de8d8be57d13360_p0121,2,"[1, 0]",0.5,1.0,1.0,1.0
 What are the four factors proposed by Hourdin et al. (2015) and Richter (2015) as contributing to the tropical Atlantic SST gradient biases in CMIP5 models?,9de8d8be57d13360_p0122,2,"[1, 0]",0.5,1.0,1.0,1.0
 "According to Richter and Tokinaga (2020), what is the average change in the cold bias in the western part of the tropical Atlantic basin compared to CMIP5 models?",9de8d8be57d13360_p0122,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of the warm bias in the subsurface of the tropical Indian Ocean, as identified in CMIP6 models?",9de8d8be57d13360_p0123,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to Figure 3.24 b,c, what is the difference in warm bias between the CMIP6 multi-model mean and CMIP5 models in the western tropical Indian Ocean?",9de8d8be57d13360_p0123,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of the warm bias in the subsurface of the tropical Indian Ocean in CMIP6 models?,9de8d8be57d13360_p0123,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+How does the HighResMIP models' resolution affect the SST bias in the Indian Ocean compared to the full CMIP6 ensemble?,9de8d8be57d13360_p0123,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What percentage of the Earth's energy change since the 1970s is attributed to the ocean, according to the AR5 and SROCC assessments?",9de8d8be57d13360_p0125,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary limitation in assessing ocean heat content changes below 700 m, as mentioned in the AR5?",9de8d8be57d13360_p0125,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What percentage of the global heat uptake is attributed to the upper, intermediate, and deeper layers, respectively, according to Figure 3.26?",9de8d8be57d13360_p0126,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do CMIP6 model simulations compare to CMIP5 model simulations in terms of ocean heat content changes in the upper, intermediate, and deep-ocean layers, as shown in Figure 3.26?",9de8d8be57d13360_p0126,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary reason for the limited assessment of ocean heat content changes below 700 m in the AR5, due to the lack of measurements?",9de8d8be57d13360_p0125,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What percentage of the global heat uptake from 1971 to 2018 is attributed to the 700–2000 m ocean layer?,9de8d8be57d13360_p0126,2,"[0, 1]",0.5,1.0,0.5,0.6309
+"How do the CMIP6 model simulations replicate the partitioning of ocean layer warming contributions for the industrial-era (1865 to 2017) throughout the upper (0–700 m), intermediate (700–2000 m), and deep (>2000 m) layers?",9de8d8be57d13360_p0126,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the ocean heat content increase observed since the 1970s, according to the text?",9de8d8be57d13360_p0127,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How does the Southern Ocean show the strongest ocean heat uptake that penetrates to deeper layers, as stated in this section?",9de8d8be57d13360_p0127,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How does the Southern Ocean's ocean heat uptake compare to the Pacific and Indian Oceans in terms of depth penetration, as described in this section?",9de8d8be57d13360_p0127,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What is the range of stratification increase in the surface ocean from 1970 to 2017, as reported in the SROCC?",9de8d8be57d13360_p0128,2,"[1, 0]",0.5,1.0,1.0,1.0
 "According to an idealized ocean modelling study, what percentage of the salinity enhancement signal since 1990 can be accounted for by enhanced stratification?",9de8d8be57d13360_p0128,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of salinity biases in CMIP6 models, according to the text?",9de8d8be57d13360_p0129,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"What is the magnitude of the upper ocean (<300 m) fresh bias in the Atlantic Ocean, as shown in Figure 3.25?",9de8d8be57d13360_p0129,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of salinity biases in CMIP6 models, according to Figure 3.23b?",9de8d8be57d13360_p0129,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the magnitude of the fresh bias in the upper ocean (<300 m) in the Atlantic Ocean, as shown in the basin-scale assessment?",9de8d8be57d13360_p0129,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What is the primary driver of the salinity changes in the Atlantic Ocean, as mentioned in this section?",9de8d8be57d13360_p0130,2,"[0, 1]",0.5,1.0,0.5,0.6309
 "According to Figure 3.27, what is the range of PSS-78 values represented by the color bar in the top panel, which shows the observed salinity trends over the period from 1950 to 2019?",9de8d8be57d13360_p0130,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the basin-scale observed salinity changes, as stated in this section?",9de8d8be57d13360_p0131,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to the text, what is the confidence level in the statement that CMIP5 and CMIP6 models are only able to reproduce the observed salinity patterns in simulations that include greenhouse gas increases?",9de8d8be57d13360_p0131,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the confidence level in the statement that human influence has contributed to observed near-surface and subsurface salinity changes across the globe since the mid-20th century?",9de8d8be57d13360_p0131,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the gap in the observed sea level budget that current climate models do not fully resolve?,9de8d8be57d13360_p0133,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 What is the name of the project that has provided more quantitative guidance and a comprehensive assessment of the uncertainties and best estimates of the current and future contributions of glaciers to the sea level budget?,9de8d8be57d13360_p0133,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What percentage of the observed sea level rise over the period 1970 to 2005 can be attributed to anthropogenically forced changes, according to Slangen et al. (2016)?",9de8d8be57d13360_p0134,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What percentage of the global glacier mass loss between 1991 and 2010 was attributed to anthropogenic forcing, as found by Marzeion et al. (2014)?",9de8d8be57d13360_p0134,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the observed GMSL rise since at least 1971?,9de8d8be57d13360_p0135,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"According to Richter et al. (2020), what is the time period used to compare modelled sea level change with satellite altimeter observations?",9de8d8be57d13360_p0135,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the reason for starting the assessed period in 1971, according to the text?",9de8d8be57d13360_p0135,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of ocean circulation, according to Buckley and Marshall (2016)?",9de8d8be57d13360_p0136,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-What is the specific aspect of ocean circulation changes that is assessed in Section 9.2.3?,9de8d8be57d13360_p0136,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the specific assessment in this section regarding the detection and attribution of anthropogenically-driven changes in large-scale ocean circulation?,9de8d8be57d13360_p0136,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 What is the primary driver of the weakening of the Atlantic Meridional Overturning Circulation (AMOC) observed in the mid-2000s to the mid-2010s?,9de8d8be57d13360_p0137,2,"[1, 0]",0.5,1.0,1.0,1.0
 How does the data in this section show that CMIP5 and CMIP6 models underestimate the interannual and decadal time scale AMOC variability?,9de8d8be57d13360_p0137,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to Ezer et al. (2013) and Caesar et al. (2018), what is the estimated trend of the AMOC over the 20th century?",9de8d8be57d13360_p0138,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the specific time period over which the CMIP6 multi-model mean shows a clear increase in the AMOC, as simulated in Menary et al. (2020)?",9de8d8be57d13360_p0138,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the CMIP6 multi-model mean, what is the clear increase in the AMOC seen over the 1940–1985 period?",9de8d8be57d13360_p0138,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the influence of greenhouse gases on the modelled AMOC, as reported in Delworth and Dixon (2006) and Caesar et al. (2018)?",9de8d8be57d13360_p0138,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the differing AMOC response of CMIP5 and CMIP6 models during the historical period?,9de8d8be57d13360_p0139,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"According to the text, what is the reason for the low confidence in the influence of anthropogenic forcing on changes in AMOC strength during the 1860–2014 period?",9de8d8be57d13360_p0139,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of the intensification and southward shift of surface wind in the Southern Ocean, as observed in Section 2.4.1.2?",9de8d8be57d13360_p0140,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the reason for the low confidence that anthropogenic forcing has influenced the observed changes in AMOC strength in the post-2004 period?",9de8d8be57d13360_p0139,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the intensification and southward shift of surface winds in the Southern Ocean, as observed in Section 2.4.1.2?",9de8d8be57d13360_p0140,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What is the confidence level in the observed slowdown of the Antarctic Bottom Water circulation and commensurate Antarctic Bottom Water volume decrease since the 1990s, as reported in Section 9.2.3.2?",9de8d8be57d13360_p0140,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the increase in global vegetation photosynthetic activity over the last 2–3 decades, as attributed by the IPCC Special Report on Climate Change and Land (SRCCL)?",9de8d8be57d13360_p0141,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do CMIP5 Earth System Models (ESMs) simulate the global mean land and ocean carbon sinks, according to the AR5, and what are the remaining shortcomings of carbon cycle schemes in ESMs, as noted by the IPCC SRCCL?",9de8d8be57d13360_p0141,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do CMIP5 Earth System Models (ESMs) simulate the global mean land and ocean carbon sinks, according to the AR5 assessment with high confidence?",9de8d8be57d13360_p0141,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of yearly sink strength variations at continental to global scales, according to Section 5.2.1.4.2?",9de8d8be57d13360_p0142,2,"[1, 0]",0.5,1.0,1.0,1.0
 "How do CMIP6 terrestrial carbon cycle models partially capture the increasing amplitude of the seasonal cycle of the land carbon sink, as shown in Figure 3.32?",9de8d8be57d13360_p0142,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the increase in the amplitude of the seasonal cycle of atmospheric CO2, according to Piao et al. (2017)?",9de8d8be57d13360_p0143,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do models with nitrogen deposition influence leaf area index trends, as described in the text?",9de8d8be57d13360_p0143,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do models underestimate current levels of carbon fixation, as suggested by model comparisons to the atmospheric CO2 concentration record for Barrow, Alaska, as reported by Winkler et al. (2019)?",9de8d8be57d13360_p0143,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the increase in the amplitude of the seasonal cycle of global land carbon uptake, as stated in this section?",9de8d8be57d13360_p0144,2,"[1, 0]",0.5,1.0,1.0,1.0
 "According to the text, what is the confidence level in the assessment that CO2 fertilization is the main driver of the increase in the amplitude of the seasonal cycle of atmospheric CO2?",9de8d8be57d13360_p0144,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of the observed deoxygenation in the upper 1000 m of the ocean between 1970 and 2010, as confirmed in the SROCC with medium confidence?",9de8d8be57d13360_p0145,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"How does the representation of coastal eutrophication in ocean biogeochemical models affect the estimated oxygen declines in the interior of the ocean, as discussed in the text?",9de8d8be57d13360_p0145,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the rate of ocean pH decline per decade for the past 40 years, as assessed in Section 2.3.3.5?",9de8d8be57d13360_p0146,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What specific developments in ocean biogeochemical process representation between CMIP5 and CMIP6 have led to an improvement in model performance?,9de8d8be57d13360_p0145,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do CMIP6 models compare to CMIP5 models in terms of representing the micronutrient iron, and what is the reason for the lack of substantial improvement?",9de8d8be57d13360_p0145,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What is the estimated rate of ocean acidification in the North Atlantic subtropical and equatorial regions since 2000?,9de8d8be57d13360_p0146,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the observed acidification of the global surface open ocean, according to the increased evidence in recent studies?",9de8d8be57d13360_p0146,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"What is the primary driver of the observed positive trend of the NAO/NAM indices during the second half of the 20th century, as reported in the AR5?",9de8d8be57d13360_p0148,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to the text, what is the result of the multi-model multi-member ensemble mean of the trend estimated from historical simulations over the period from the 1960s, for both CMIP5 and CMIP6?",9de8d8be57d13360_p0148,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the observed positive trend of the NAO/NAM indices during the second half of the 20th century, as reported by the AR5?",9de8d8be57d13360_p0148,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the result of the multi-model multi-member ensemble mean of the trend estimated from historical simulations over the period 1960s-2014 for both CMIP5 and CMIP6?",9de8d8be57d13360_p0148,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the long-term positive trend of the winter NAO/NAM over the 20th century, according to the text?",9de8d8be57d13360_p0149,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do the CMIP6 historical simulations compare to the observed NAM trends over the same period, in terms of percentile ranking?",9de8d8be57d13360_p0149,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do the CMIP6 historical simulations compare to the observed NAM trends over the same period, in terms of the percentile ranking?",9de8d8be57d13360_p0149,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the strengthening of the North Atlantic Oscillation (NAM) in boreal winter, as indicated by the box plots in Figure 3.34?",9de8d8be57d13360_p0150,2,"[1, 0]",0.5,1.0,1.0,1.0
-How do the confidence intervals in Figure 3.34 show a 2% increase in the variability of the Southern Annular Mode (SAM) index in boreal winter?,9de8d8be57d13360_p0150,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of the positive trends in the SAM index in boreal winter, as shown in the CMIP5 historical ensemble?",9de8d8be57d13360_p0151,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to the text, what is the main reason for the apparent signal-to-noise problem in seasonal and decadal hindcasts of the NAO over the period 1979-2018?",9de8d8be57d13360_p0151,2,"[1, 0]",0.5,1.0,1.0,1.0
+How do the ensemble mean and confidence intervals in Figure 3.34 show a 2% increase in the trends of the Southern Annular Mode (SAM) index in boreal winter?,9de8d8be57d13360_p0150,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the positive trends in the SAM index in boreal winter, according to the CMIP6 results?",9de8d8be57d13360_p0151,2,"[1, 0]",0.5,1.0,1.0,1.0
+How does the study by Gillett and Fyfe (2013) show that the trend in the NAM index is not significant in all seasons?,9de8d8be57d13360_p0151,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the observed multi-decadal variations of the NAM/NAO from the mid 20th century?,9de8d8be57d13360_p0152,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the reason for the low confidence in attribution of the NAM/NAO variations to anthropogenic forcings, as stated in (iii)?",9de8d8be57d13360_p0152,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the reason for the low confidence in attribution of the NAM/NAO variations to anthropogenic forcings, as stated in (ii) of the text?",9de8d8be57d13360_p0152,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the trend of the Southern Annular Mode (SAM) toward its positive phase in austral summer since the mid-20th century?,9de8d8be57d13360_p0153,2,"[1, 0]",0.5,1.0,1.0,1.0
 "According to CMIP6 models, what is the chance of the 1979-2019 trend of the SAM being due to internal variability?",9de8d8be57d13360_p0153,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the trend of the Southern Annular Mode (SAM) toward its positive phase in recent decades, according to Solomon and Polvani (2016)?",9de8d8be57d13360_p0154,2,"[1, 0]",0.5,1.0,1.0,1.0
 "How does the ozone stabilization and slight recovery since about 2000, as mentioned in the text, affect the summertime SAM trend, as shown in Figure 3.34c?",9de8d8be57d13360_p0154,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the SAM index variability shown in sub-panel (a) of Figure 3.35?,9de8d8be57d13360_p0155,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do the CMIP5, MRI-ESM2-0, and CMIP6 models compare in terms of capturing multicentennial variability of the SAM, as shown in sub-panel (b) of Figure 3.35?",9de8d8be57d13360_p0155,2,"[1, 0]",0.5,1.0,1.0,1.0
-What is the primary driver of the observed inter-decadal modulations in ENSO amplitude and spatial pattern?,9de8d8be57d13360_p0156,2,"[1, 0]",0.5,1.0,1.0,1.0
-How do CMIP6 models compare to CMIP5 models in terms of their representation of the longitudinal extent of ENSO SST anomalies?,9de8d8be57d13360_p0156,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do the CMIP5, MRI-ESM2-0, and CMIP6 models compare in terms of capturing multicentennial variability of the SAM, according to the text?",9de8d8be57d13360_p0155,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the primary driver of the observed inter-decadal modulations in ENSO amplitude and spatial pattern, as identified in the AR5 assessment?",9de8d8be57d13360_p0156,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do CMIP6 models compare to CMIP5 models in terms of their representation of the longitudinal extent of ENSO SST anomalies, according to the results presented in Figure 3.36 and discussed in the text?",9de8d8be57d13360_p0156,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the statistically significant improvement in the representation of ENSO event-to-event SST anomaly diversity in CMIP6 models compared to CMIP5 models?,9de8d8be57d13360_p0157,2,"[1, 0]",0.5,1.0,1.0,1.0
 "According to Figure 3.36, what is the observed increase in the ENSO index value in year 0 compared to the previous years for El Niño events?",9de8d8be57d13360_p0157,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the method used to weight individual ensemble members in the calculation of multi-model ensemble means in Figure 3.37?,9de8d8be57d13360_p0158,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the definition of the ENSO index used in Figure 3.37, and what region is it averaged over?",9de8d8be57d13360_p0158,2,"[1, 0]",0.5,1.0,1.0,1.0
-What datasets are represented by the black and blue lines in the standard deviation of the ENSO index graph?,9de8d8be57d13360_p0159,2,"[1, 0]",0.5,1.0,1.0,1.0
-What is the difference in standard deviation between the CMIP6 and CMIP5 lines compared to the observations?,9de8d8be57d13360_p0159,2,"[0, 0]",0.0,0.0,0.0,0.0
-What chart type is used to display the seasonality metric (NDJ/MAM ratio) in this section?,9de8d8be57d13360_p0160,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+What datasets are represented by the black and blue lines in the ENSO index standard deviation graph?,9de8d8be57d13360_p0159,2,"[1, 0]",0.5,1.0,1.0,1.0
+What percentage of the ENSO index variability is represented by the shaded area in the graph?,9de8d8be57d13360_p0159,2,"[1, 0]",0.5,1.0,1.0,1.0
+What type of chart is used to display the seasonality metric (NDJ/MAM ratio) in this section?,9de8d8be57d13360_p0160,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 What is the range of seasonality metric values shown in the scatter plot with box and whisker plots?,9de8d8be57d13360_p0160,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 What data sources are used to represent temperature anomalies over land in Figure 3.38?,9de8d8be57d13360_p0162,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the range of temperature anomalies (°C) shown in the color scale of the map in Figure 3.38?,9de8d8be57d13360_p0162,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the changes to ENSO event type in response to historical radiative forcing, according to Stevenson et al. (2019)?",9de8d8be57d13360_p0163,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do CMIP6 models compare to observations in terms of teleconnection strength during the DJF season, as shown in Figure 3.38?",9de8d8be57d13360_p0163,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the primary driver of the Indian Ocean Basin (IOB) mode, according to Du et al. (2009)?",9de8d8be57d13360_p0164,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do CMIP6 models, as found by McKenna et al. (2020), compare to CMIP5 models in terms of the positive-negative asymmetry of the IOD?",9de8d8be57d13360_p0164,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How do CMIP6 models compare to CMIP5 models in terms of reproducing the sign of the observed teleconnections, as shown in Figure 3.38?",9de8d8be57d13360_p0163,2,"[0, 0]",0.0,0.0,0.0,0.0
+"What is the primary driver of the Indian Ocean Basin (IOB) mode, according to Du et al. (2009)?",9de8d8be57d13360_p0164,2,"[0, 1]",0.5,1.0,0.5,0.6309
+"How do CMIP6 models reproduce the Indian Ocean Dipole (IOD) magnitude, according to McKenna et al. (2020)?",9de8d8be57d13360_p0164,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the observed Indian Ocean basin-average SST increase on multi-decadal and centennial time scales?,9de8d8be57d13360_p0165,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How does the change in correlation between Pacific Decadal Variability (PDV) and decadal variations in the IOB mode, from positive to negative during the 1980s, relate to the increase in anthropogenic forcing and volcanic eruptions?",9de8d8be57d13360_p0165,2,"[1, 0]",0.5,1.0,1.0,1.0
+"How does the change in correlation between Pacific Decadal Variability (PDV) and a decadal IOB index, defined from linearly detrended SST, from positive to negative during the 1980s relate to the increase in anthropogenic forcing and recovery from volcanic eruptions?",9de8d8be57d13360_p0165,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the severe biases in mean state and variance for both SST and atmospheric dynamics in CMIP5 models, as reported in AR5?",9de8d8be57d13360_p0166,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to the text, what is the effect of increasing model resolution on the representation of the Atlantic Niño and AMM modes of variability in CMIP6 models?",9de8d8be57d13360_p0166,2,"[0, 0]",0.0,0.0,0.0,0.0
+"According to the text, what is the effect of increasing model resolution on the representation of the Atlantic Niño and AMM modes of variability in terms of amplitude and seasonality?",9de8d8be57d13360_p0166,2,"[0, 1]",0.5,1.0,0.5,0.6309
 What is the primary driver of the observed changes in the Atlantic Niño mode and associated teleconnections over the second half of the 20th century?,9de8d8be57d13360_p0167,2,"[1, 0]",0.5,1.0,1.0,1.0
 "According to the text, what specific model resolution increase may potentially improve the simulation of tropical Atlantic changes?",9de8d8be57d13360_p0167,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the observed slowdown of the GMST warming rate in the early 2000s, as mentioned in this section?",9de8d8be57d13360_p0168,2,"[0, 1]",0.5,1.0,0.5,0.6309
-"How do CMIP6 models compare to CMIP5 models in terms of reproducing the spatial structure of PDV, according to Figure 3.39a–c and Fasullo et al. (2020)?",9de8d8be57d13360_p0168,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"According to Figure 3.39e, what is the result of an F-test comparing the variance of the PDV index after decadal filtering in the concatenated CMIP5 ensemble to the three observational estimates used in the figure?",9de8d8be57d13360_p0168,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of PDV, according to the assessment that PDV is mostly driven by internal variability since the pre-industrial era?",9de8d8be57d13360_p0169,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the estimated variance fraction of the externally-driven to total PDV, as reported by Liguori et al. (2020)?",9de8d8be57d13360_p0169,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the percentage of externally-driven to total PDV in a multi-model large ensemble of historical simulations, according to Oudar et al. (2018)?",9de8d8be57d13360_p0170,2,"[0, 1]",0.5,1.0,0.5,0.6309
-"What is the finding regarding the consistency of temporal variations of PDV across the ensemble in CMIP5 last millennium simulations, as reported by Fleming and Anchukaitis (2016)?",9de8d8be57d13360_p0170,2,"[1, 0]",0.5,1.0,1.0,1.0
+What percentage of the externally-driven to total PDV is attributed to internal variability in a multi-model large ensemble of historical simulations?,9de8d8be57d13360_p0170,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the dominant feature of the ensemble spread in the 60-year trend of the equatorial Pacific zonal SST gradient in large ensemble simulations, according to Watanabe et al. (2021)?",9de8d8be57d13360_p0170,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the PDV since pre-industrial times, according to the text?",9de8d8be57d13360_p0171,2,"[1, 0]",0.5,1.0,1.0,1.0
 "How do CMIP6 models compare to CMIP5 models in terms of simulating the spatial structure and magnitude of the PDV, as stated in the text?",9de8d8be57d13360_p0171,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 What is the primary driver of Atlantic Multi-decadal Variability (AMV) according to the AR5 assessment?,9de8d8be57d13360_p0172,2,"[1, 0]",0.5,1.0,1.0,1.0
 "How do CMIP6 models show an increase in AMV variance compared to CMIP5 models, and what is the main reason for this increase?",9de8d8be57d13360_p0172,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of the observed AMV shift from the cold to the warm phase in the mid-1990s at the surface ocean?,9de8d8be57d13360_p0173,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to the text, what is the contribution of volcanic forcing to the cold phases of the AMV-related SST anomalies observed in the 20th century?",9de8d8be57d13360_p0173,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to Figure 3.40d–f, what is the explained variance of the forced response in CMIP6 compared to CMIP5?",9de8d8be57d13360_p0173,2,"[0, 0]",0.0,0.0,0.0,0.0
 "What is the primary driver of the AMV phenomenon, according to the text, and what studies question this driver?",9de8d8be57d13360_p0174,2,"[0, 1]",0.5,1.0,0.5,0.6309
-"What is the 'signal-to-noise paradox' mentioned in the text, and what is its relevance to the models' ability to simulate the response of AMV-related atmospheric circulation phenomena?",9de8d8be57d13360_p0174,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What are the two external forcings thought to have modulated the AMV over the historical period, according to CMIP5 and CMIP6 models?",9de8d8be57d13360_p0175,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"What is the primary limitation in accurately evaluating model performance in simulating AMV, as stated in this section?",9de8d8be57d13360_p0175,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the signal-to-noise paradox, as referred to in the text, and what atmospheric circulation phenomenon is it related to?",9de8d8be57d13360_p0174,2,"[1, 0]",0.5,1.0,1.0,1.0
+What are the two external forcings thought to have played a role in the timing and intensity of the negative phase of AMV from the mid-1960s to mid-1990s?,9de8d8be57d13360_p0175,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"What is the primary limitation in accurately evaluating model performance in simulating AMV, according to the text?",9de8d8be57d13360_p0175,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What is the primary driver of the observed changes in hot and cold extremes over land at the global scale, as stated in Cross-Chapter Box 3.2?",9de8d8be57d13360_p0176,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to the text, what is the main driver of the observed intensification of heavy precipitation in global land regions during recent decades, as mentioned in Cross-Chapter Box 3.2?",9de8d8be57d13360_p0176,2,"[1, 0]",0.5,1.0,1.0,1.0
-What is the primary driver of the most significant changes in the sub-panels for each region and indicator?,9de8d8be57d13360_p0177,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do the anthropogenic changes show a general increase in ocean heat content over time, with the anthropogenic changes being the most significant?",9de8d8be57d13360_p0177,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"What type of analysis is used to address how well models simulate present-day and historical climate, as described in Section 3.8.2.1?",9de8d8be57d13360_p0179,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"According to the text, what is the primary reason why some models or model families perform better than others against observational reference datasets, despite having similar scores against different datasets?",9de8d8be57d13360_p0179,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What are the specific variables for which CMIP6 models perform generally better than previous-generation and older models, according to the text?",9de8d8be57d13360_p0180,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the main driver of the observed intensification of heavy precipitation in global land regions during recent decades, as stated in Cross-Chapter Box 3.2?",9de8d8be57d13360_p0176,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the primary driver of the most significant changes shown in the sub-panels for each region?,9de8d8be57d13360_p0177,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How does the data in this section show a general increase in ocean heat content over time, with the anthropogenic changes being the most significant?",9de8d8be57d13360_p0177,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What type of analysis is used to address how well models simulate present-day and historical climate, as described in section 3.8.2.1?",9de8d8be57d13360_p0179,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"According to the text, what is the primary reason for the differences in model performance between CMIP5 and CMIP6 models, as evidenced by the analysis of a basket of 16 atmospheric variables?",9de8d8be57d13360_p0179,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What are the specific variables for which CMIP6 models perform generally better than previous-generation models, according to the text?",9de8d8be57d13360_p0180,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary reason for the little further progress between CMIP3 and CMIP5 for fields that were already quite well simulated in CMIP3, such as surface air temperature and outgoing longwave radiation?",9de8d8be57d13360_p0180,2,"[1, 0]",0.5,1.0,1.0,1.0
-What type of climate forcings are used to benchmark climate models for the Last Millennium?,9de8d8be57d13360_p0181,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to AR5, what was the magnitude of change in the north–south temperature gradient in Europe seen in proxies relative to the pre-industrial period, and was this underestimated by CMIP5/PMIP3 models?",9de8d8be57d13360_p0181,2,"[1, 0]",0.5,1.0,1.0,1.0
+What type of climate drivers are represented by the Last Millennium period in the context of benchmarking climate models?,9de8d8be57d13360_p0181,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"According to AR5, what was the primary issue with the magnitude of regional signals in model simulations compared to proxy data for the mid-Holocene and LGM periods?",9de8d8be57d13360_p0181,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary reference observational data set used in Figure 3.43, and what are the corresponding correlation values shown between this dataset and the CMIP6 models?",9de8d8be57d13360_p0182,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the resolution at which the pattern correlations in Figure 3.43 are computed, and what is the source of the data used for this computation?",9de8d8be57d13360_p0182,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the resolution at which the pattern correlations in Figure 3.43 are computed, and how is this resolution chosen to ensure a fair comparison across a range of model resolutions?",9de8d8be57d13360_p0182,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the very likely assessed ranges presented in Section 2.3.1.1, as shown by the light orange shading in Figure 3.44 panel (a)?",9de8d8be57d13360_p0183,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How does the data in this section show a 2% increase in GSAT anomalies for the five PMIP4 periods, as compared to the CMIP5-PMIP3 models, in Figure 3.44 panel (a)?",9de8d8be57d13360_p0183,2,"[1, 0]",0.5,1.0,1.0,1.0
+How do the model results in Figure 3.44 panel (c) show a comparison between the Last Glacial Maximum (LGM) period and the mid-Holocene period for the region of West Africa?,9de8d8be57d13360_p0183,2,"[1, 0]",0.5,1.0,1.0,1.0
 "What is the primary driver of the slight mid-Holocene cooling in PMIP4 compared with PMIP3, as mentioned in the text?",9de8d8be57d13360_p0184,2,"[1, 0]",0.5,1.0,1.0,1.0
 "How does the data in this section show that the PMIP4 multi-model mean is within the range of reconstructed regional averages for four out of seven regional variables, and for which variables is this the case?",9de8d8be57d13360_p0184,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of improvements in precipitation simulation in CMIP6 models compared to CMIP5 models?,9de8d8be57d13360_p0185,2,"[1, 0]",0.5,1.0,1.0,1.0
 "According to the text, what is the typical resolution of the high-resolution class of models participating in HighResMIP?",9de8d8be57d13360_p0185,2,"[1, 0]",0.5,1.0,1.0,1.0
-What is the primary driver of the fertilization effect on vegetation and carbon uptake mentioned in this section?,9de8d8be57d13360_p0186,2,"[1, 0]",0.5,1.0,1.0,1.0
-"According to this section, what is the impact of introducing explicit coupling between interactive atmospheric chemistry and aerosol schemes on estimates of historical aerosol radiative forcing?",9de8d8be57d13360_p0186,2,"[1, 0]",0.5,1.0,1.0,1.0
-What is the time period covered by the observed warming data in Figure 1?,9de8d8be57d13360_p0190,2,"[1, 0]",0.5,1.0,1.0,1.0
-What is the specific range of individual simulations shown by the coloured bands in Figure 1?,9de8d8be57d13360_p0190,2,"[0, 0]",0.0,0.0,0.0,0.0
+"What specific biogeochemical aspects of the coupled Earth system have been improved in CMIP6 Earth system models, as mentioned in the text?",9de8d8be57d13360_p0186,2,"[1, 0]",0.5,1.0,1.0,1.0
+"According to the text, what is the effect of introducing explicit coupling between interactive atmospheric chemistry and aerosol schemes on estimates of historical aerosol radiative forcing?",9de8d8be57d13360_p0186,2,"[1, 0]",0.5,1.0,1.0,1.0
+What is the time period covered by the observed warming data in Figure 1?,9de8d8be57d13360_p0190,2,"[0, 0]",0.0,0.0,0.0,0.0
+"What is the specific scenario that is only reproduced in simulations including human influence, according to the text?",9de8d8be57d13360_p0190,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the estimated contribution of natural variability to global surface warming over the entire historical period (1850–2020)?,9de8d8be57d13360_p0192,2,"[1, 0]",0.5,1.0,1.0,1.0
 "According to the text, what is the primary driver of the warming of about 1.1°C observed during the period 1850–2020?",9de8d8be57d13360_p0192,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the temperature range of global change caused by natural variability since 1850, according to the text?",9de8d8be57d13360_p0194,2,"[1, 0]",0.5,1.0,1.0,1.0
-"What is the source of the data used to illustrate the influence of natural variability in Figure 1, as mentioned in the text?",9de8d8be57d13360_p0194,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the temperature range of global change caused by natural variability since 1850, as stated in this section?",9de8d8be57d13360_p0194,2,"[1, 0]",0.5,1.0,1.0,1.0
+"What is the source of the data used to illustrate the influence of natural variability in Figure 1, as mentioned in this section?",9de8d8be57d13360_p0194,2,"[1, 0]",0.5,1.0,1.0,1.0
 What is the primary driver of global warming according to the current and previous generations of climate models?,9de8d8be57d13360_p0196,2,"[1, 0]",0.5,1.0,1.0,1.0
-"How do the multi-model averages of the three most recent generations of climate models compare against observations in terms of correlation, as shown in FAQ 3.3 Figure 1?",9de8d8be57d13360_p0196,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
+"How do the multi-model averages of the three most recent generations of climate models (available around 2008, 2013 and 2021) compare against observations of climate variables, as shown in FAQ 3.3 Figure 1?",9de8d8be57d13360_p0196,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
 "What is the primary driver of the improvements in climate models, according to this section?",9de8d8be57d13360_p0197,3,"[1, 0, 0]",0.3333,1.0,1.0,1.0
-"What is the time period used for comparing yearly averages of CMIP3, CMIP5, and CMIP6 models with reference observations in Figure 1?",9de8d8be57d13360_p0197,2,"[0, 0]",0.0,0.0,0.0,0.0
+"What is the time period used for comparing yearly averages of models with reference observations in Figure 1, as described in this section?",9de8d8be57d13360_p0197,2,"[0, 0]",0.0,0.0,0.0,0.0

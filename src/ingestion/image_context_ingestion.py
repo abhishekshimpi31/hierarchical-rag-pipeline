@@ -3,12 +3,10 @@ import re
 import json
 import glob
 
-try:
-    from ..common.file_versioning import get_latest_file
-    import config
-except ImportError:
-    from file_versioning import get_latest_file
-    import config
+
+from ..common.file_versioning import get_latest_file
+import config
+
 
 def hydrate_markdown_files(base_dir: str = "data/extracted_data/"):
     for chapter_folder in os.listdir(base_dir):
